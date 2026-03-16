@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-16T12:07:50Z",
+    "updated_utc": "2026-03-16T15:47:05Z",
     "reason": "regular_update",
-    "this_week": 102,
+    "this_week": 103,
     "last_week": 0,
-    "total": 102
+    "total": 103
   },
   "events": [
     {
@@ -113,20 +113,20 @@
       "previous": "2.7%"
     },
     {
-      "title": "Core CPI m/m",
-      "country": "CAD",
-      "date": "2026-03-16T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.2%"
-    },
-    {
       "title": "Empire State Manufacturing Index",
       "country": "USD",
       "date": "2026-03-16T08:30:00-04:00",
       "impact": "Medium",
       "forecast": "4.0",
       "previous": "7.1"
+    },
+    {
+      "title": "Core CPI m/m",
+      "country": "CAD",
+      "date": "2026-03-16T08:32:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "0.2%"
     },
     {
       "title": "Capacity Utilization Rate",
@@ -153,6 +153,14 @@
       "previous": "36"
     },
     {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-03-16T11:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FPI m/m",
       "country": "NZD",
       "date": "2026-03-16T17:45:00-04:00",
@@ -175,14 +183,6 @@
       "impact": "High",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "NAB Quarterly Business Confidence",
-      "country": "AUD",
-      "date": "2026-03-16T23:59:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "2"
     },
     {
       "title": "RBA Press Conference",
@@ -239,14 +239,6 @@
       "impact": "Medium",
       "forecast": "-1.2%",
       "previous": "-0.8%"
-    },
-    {
-      "title": "CB Leading Index m/m",
-      "country": "USD",
-      "date": "2026-03-17T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-0.2%"
     },
     {
       "title": "CB Leading Index m/m",
@@ -505,6 +497,14 @@
       "previous": ""
     },
     {
+      "title": "NAB Quarterly Business Confidence",
+      "country": "AUD",
+      "date": "2026-03-18T23:59:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "2"
+    },
+    {
       "title": "Revised Industrial Production m/m",
       "country": "JPY",
       "date": "2026-03-19T00:30:00-04:00",
@@ -663,6 +663,14 @@
       "impact": "Medium",
       "forecast": "723K",
       "previous": "745K"
+    },
+    {
+      "title": "CB Leading Index m/m",
+      "country": "USD",
+      "date": "2026-03-19T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.2%"
     },
     {
       "title": "Final Wholesale Inventories m/m",
