@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -32,5 +30,6 @@ jobs:
             echo "Nichts geaendert."
           else
             git commit -m "$(date -u +'%H:%M') $(cat data/state.json | python3 -c 'import sys,json;print(json.load(sys.stdin).get(\"action\",\"update\"))' 2>/dev/null || echo update)"
+            git pull --rebase
             git push
           fi
