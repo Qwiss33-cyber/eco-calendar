@@ -38,13 +38,11 @@ def should_skip():
     """Prüft ob wir überhaupt was tun müssen"""
     weekday = now.weekday()  # 0=Mo, 5=Sa, 6=So
 
-    # Wochenende: Sa nach 22:00 UTC bis So 22:00 UTC → Skip
+    # Wochenende: Keine Actual-Fetches, aber initiale Daten holen erlaubt
     if weekday == 6 and now.hour < 22:
-        print("[SKIP] Sonntag vor 22:00 → keine Events")
-        return True
+        return "weekend"
     if weekday == 5 and now.hour >= 22:
-        print("[SKIP] Samstag nach 22:00 → keine Events")
-        return True
+        return "weekend"
 
     return False
 
@@ -204,14 +202,30 @@ def main():
     print(f"═══ EcoNews Live [{ts}] ═══")
 
     # 1. Wochenende?
-    if should_skip():
-        save_state("skip_weekend", False)
-        return
+    skip = should_skip()
 
     # 2. Aktuelle Events laden
     current = load_current_events()
 
-    # 3. Actual-Fetch nötig? (Event in letzten 6 Min)
+    # 3. Wochenende: Keine Actual-Fetches, aber Daten holen wenn leer/alt
+    if skip == "weekend":
+        if not current or need_regular_fetch():
+            print("[WEEKEND] Daten leer/alt → einmaliger Fetch")
+            data = fetch_forexfactory()
+            if data:
+                archive_week(data)
+                last = load_last_week()
+                cleanup_archives()
+                save_combined(data, last, "weekend_init")
+                save_state("weekend_init", True)
+            else:
+                save_state("weekend_fetch_failed", False)
+        else:
+            print("[SKIP] Wochenende + Daten frisch → nichts tun")
+            save_state("skip_weekend", False)
+        return
+
+    # 4. Actual-Fetch nötig? (Event in letzten 6 Min)
     if current and need_actual_fetch(current):
         data = fetch_forexfactory()
         if data:
@@ -224,7 +238,7 @@ def main():
             save_state("actual_fetch_failed", False)
         return
 
-    # 4. Reguläres Update? (Daten > 1h alt)
+    # 5. Reguläres Update? (Daten > 1h alt)
     if need_regular_fetch():
         data = fetch_forexfactory()
         if data:
@@ -237,7 +251,7 @@ def main():
             save_state("regular_update_failed", False)
         return
 
-    # 5. Nichts zu tun
+    # 6. Nichts zu tun
     print("[SKIP] Daten frisch, kein Event gerade → nichts tun")
     save_state("skip_fresh", False)
 
