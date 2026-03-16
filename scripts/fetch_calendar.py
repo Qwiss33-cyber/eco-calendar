@@ -70,16 +70,32 @@ def need_actual_fetch(events):
 
 
 def need_regular_fetch():
-    """Prüft ob die Daten älter als 1 Stunde sind"""
+    """Prüft ob die Daten älter als 1 Stunde oder leer sind"""
     if not os.path.exists(OUT_FILE):
         print("[FETCH] Keine lokale Datei → erster Abruf")
         return True
 
-    mtime = datetime.fromtimestamp(os.path.getmtime(OUT_FILE), tz=timezone.utc)
-    age_min = (now - mtime).total_seconds() / 60
+    # Prüfe ob Events leer sind
+    current = load_current_events()
+    if not current:
+        print("[FETCH] Events leer → erster Abruf")
+        return True
 
-    if age_min > 60:
-        print(f"[FETCH] Daten {int(age_min)} Min alt → Update")
+    # Prüfe Alter über meta.updated_utc (nicht Datei-mtime, weil git checkout das überschreibt)
+    try:
+        with open(OUT_FILE, "r") as f:
+            data = json.load(f)
+        updated = data.get("meta", {}).get("updated_utc", "")
+        if not updated:
+            print("[FETCH] Kein Timestamp → erster Abruf")
+            return True
+        last_update = datetime.fromisoformat(updated.replace("Z", "+00:00"))
+        age_min = (now - last_update).total_seconds() / 60
+        if age_min > 60:
+            print(f"[FETCH] Daten {int(age_min)} Min alt → Update")
+            return True
+    except:
+        print("[FETCH] Kann Alter nicht lesen → Update")
         return True
 
     return False
