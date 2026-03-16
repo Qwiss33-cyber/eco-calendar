@@ -1,0 +1,36 @@
+name: EcoNews Update
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Smart Fetch
+        run: python scripts/fetch_calendar.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "EcoNews Bot"
+          git config user.email "bot@econews.live"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nichts geaendert."
+          else
+            git commit -m "$(date -u +'%H:%M') $(cat data/state.json | python3 -c 'import sys,json;print(json.load(sys.stdin).get(\"action\",\"update\"))' 2>/dev/null || echo update)"
+            git push
+          fi
