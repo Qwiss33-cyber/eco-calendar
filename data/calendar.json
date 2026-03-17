@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-17T12:07:56Z",
+    "updated_utc": "2026-03-17T15:46:03Z",
     "reason": "regular_update",
     "this_week": 104,
     "last_week": 0,
@@ -243,18 +243,10 @@
     {
       "title": "CB Leading Index m/m",
       "country": "AUD",
-      "date": "2026-03-17T10:30:00-04:00",
+      "date": "2026-03-17T10:25:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "0.3%"
-    },
-    {
-      "title": "GDT Price Index",
-      "country": "NZD",
-      "date": "2026-03-17T10:50:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "5.7%"
     },
     {
       "title": "German Buba President Nagel Speaks",
@@ -263,6 +255,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "GDT Price Index",
+      "country": "NZD",
+      "date": "2026-03-17T11:18:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "5.7%"
     },
     {
       "title": "API Weekly Statistical Bulletin",
@@ -293,7 +293,7 @@
       "country": "JPY",
       "date": "2026-03-17T19:50:00-04:00",
       "impact": "Low",
-      "forecast": "-0.63T",
+      "forecast": "-0.62T",
       "previous": "0.46T"
     },
     {
@@ -836,7 +836,7 @@
       "title": "Fed Chair Powell Speaks",
       "country": "USD",
       "date": "2026-03-21T13:30:00-04:00",
-      "impact": "High",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     }
