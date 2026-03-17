@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-17T20:03:47Z",
+    "updated_utc": "2026-03-17T21:58:14Z",
     "reason": "regular_update",
-    "this_week": 104,
+    "this_week": 103,
     "last_week": 0,
-    "total": 104
+    "total": 103
   },
   "events": [
     {
@@ -445,7 +445,7 @@
       "country": "NZD",
       "date": "2026-03-18T17:45:00-04:00",
       "impact": "High",
-      "forecast": "0.4%",
+      "forecast": "0.5%",
       "previous": "1.1%"
     },
     {
@@ -495,14 +495,6 @@
       "impact": "High",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "NAB Quarterly Business Confidence",
-      "country": "AUD",
-      "date": "2026-03-18T23:59:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "2"
     },
     {
       "title": "Revised Industrial Production m/m",
@@ -637,7 +629,7 @@
       "country": "USD",
       "date": "2026-03-19T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "8.5",
+      "forecast": "8.3",
       "previous": "16.3"
     },
     {
@@ -693,7 +685,7 @@
       "country": "USD",
       "date": "2026-03-19T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "39B",
       "previous": "-38B"
     },
     {
