@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-16T23:00:56Z",
+    "updated_utc": "2026-03-17T05:14:03Z",
     "reason": "regular_update",
     "this_week": 104,
     "last_week": 0,
@@ -166,7 +166,7 @@
       "date": "2026-03-16T17:45:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": "2.5%"
+      "previous": "2.1%"
     },
     {
       "title": "Cash Rate",
@@ -585,6 +585,14 @@
       "previous": "3.17|2.5"
     },
     {
+      "title": "Euro Summit",
+      "country": "EUR",
+      "date": "2026-03-19T05:15:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Monetary Policy Summary",
       "country": "GBP",
       "date": "2026-03-19T08:00:00-04:00",
@@ -775,14 +783,6 @@
       "impact": "Low",
       "forecast": "-30",
       "previous": "-28"
-    },
-    {
-      "title": "Euro Summit",
-      "country": "EUR",
-      "date": "2026-03-20T07:15:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "Core Retail Sales m/m",
