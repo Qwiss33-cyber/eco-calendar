@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-17T18:12:56Z",
+    "updated_utc": "2026-03-17T20:03:47Z",
     "reason": "regular_update",
     "this_week": 104,
     "last_week": 0,
@@ -265,6 +265,14 @@
       "previous": "5.7%"
     },
     {
+      "title": "Westpac Consumer Sentiment",
+      "country": "NZD",
+      "date": "2026-03-17T15:05:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "96.5"
+    },
+    {
       "title": "API Weekly Statistical Bulletin",
       "country": "USD",
       "date": "2026-03-17T16:30:00-04:00",
@@ -389,7 +397,7 @@
       "country": "USD",
       "date": "2026-03-18T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.4M",
+      "forecast": "-1.5M",
       "previous": "3.8M"
     },
     {
@@ -431,14 +439,6 @@
       "impact": "Low",
       "forecast": "71.6B",
       "previous": "28.0B"
-    },
-    {
-      "title": "Westpac Consumer Sentiment",
-      "country": "NZD",
-      "date": "2026-03-18T16:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "96.5"
     },
     {
       "title": "GDP q/q",
