@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-18T23:01:07Z",
+    "updated_utc": "2026-03-19T05:16:17Z",
     "reason": "regular_update",
     "this_week": 103,
     "last_week": 0,
@@ -483,7 +483,7 @@
     {
       "title": "BOJ Policy Rate",
       "country": "JPY",
-      "date": "2026-03-18T22:30:00-04:00",
+      "date": "2026-03-18T22:46:00-04:00",
       "impact": "High",
       "forecast": "<0.75%",
       "previous": "<0.75%"
@@ -491,7 +491,7 @@
     {
       "title": "Monetary Policy Statement",
       "country": "JPY",
-      "date": "2026-03-18T22:30:00-04:00",
+      "date": "2026-03-18T22:46:00-04:00",
       "impact": "High",
       "forecast": "",
       "previous": ""
@@ -535,14 +535,6 @@
       "impact": "Low",
       "forecast": "5.3%",
       "previous": "5.2%"
-    },
-    {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-03-19T03:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.7%"
     },
     {
       "title": "SNB Monetary Policy Assessment",
@@ -743,6 +735,14 @@
       "impact": "Low",
       "forecast": "8.7B",
       "previous": "-30.4B"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-03-20T03:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.7%"
     },
     {
       "title": "Current Account",
