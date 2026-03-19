@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-19T05:16:17Z",
+    "updated_utc": "2026-03-19T07:53:27Z",
     "reason": "regular_update",
     "this_week": 103,
     "last_week": 0,
@@ -507,7 +507,7 @@
     {
       "title": "BOJ Press Conference",
       "country": "JPY",
-      "date": "2026-03-19T01:30:00-04:00",
+      "date": "2026-03-19T02:30:00-04:00",
       "impact": "High",
       "forecast": "",
       "previous": ""
