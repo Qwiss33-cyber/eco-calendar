@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-19T11:52:59Z",
+    "updated_utc": "2026-03-19T14:38:21Z",
     "reason": "regular_update",
-    "this_week": 103,
+    "this_week": 102,
     "last_week": 0,
-    "total": 103
+    "total": 102
   },
   "events": [
     {
@@ -599,14 +599,6 @@
       "impact": "High",
       "forecast": "3.75%",
       "previous": "3.75%"
-    },
-    {
-      "title": "BOE Inflation Letter",
-      "country": "GBP",
-      "date": "2026-03-19T08:10:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "Unemployment Claims",
