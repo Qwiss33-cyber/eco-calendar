@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-19T10:06:08Z",
+    "updated_utc": "2026-03-19T11:52:59Z",
     "reason": "regular_update",
     "this_week": 103,
     "last_week": 0,
@@ -571,7 +571,7 @@
     {
       "title": "Spanish 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-03-19T07:55:00-04:00",
+      "date": "2026-03-19T05:44:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.17|2.5"
