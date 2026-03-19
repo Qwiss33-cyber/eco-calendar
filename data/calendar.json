@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-19T07:53:27Z",
+    "updated_utc": "2026-03-19T10:06:08Z",
     "reason": "regular_update",
     "this_week": 103,
     "last_week": 0,
@@ -561,20 +561,20 @@
       "previous": ""
     },
     {
-      "title": "Spanish 10-y Bond Auction",
-      "country": "EUR",
-      "date": "2026-03-19T05:03:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.17|2.5"
-    },
-    {
       "title": "Euro Summit",
       "country": "EUR",
       "date": "2026-03-19T05:15:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "Spanish 10-y Bond Auction",
+      "country": "EUR",
+      "date": "2026-03-19T07:55:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.17|2.5"
     },
     {
       "title": "Monetary Policy Summary",
