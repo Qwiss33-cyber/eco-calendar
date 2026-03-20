@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-20T05:08:13Z",
+    "updated_utc": "2026-03-20T07:51:37Z",
     "reason": "regular_update",
-    "this_week": 102,
+    "this_week": 101,
     "last_week": 0,
-    "total": 102
+    "total": 101
   },
   "events": [
     {
@@ -727,14 +727,6 @@
       "impact": "Low",
       "forecast": "8.7B",
       "previous": "-30.4B"
-    },
-    {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-03-20T03:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.7%"
     },
     {
       "title": "Current Account",
