@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-23T11:29:05Z",
+    "updated_utc": "2026-03-23T14:44:36Z",
     "reason": "regular_update",
     "this_week": 82,
     "last_week": 76,
@@ -797,7 +797,7 @@
       "country": "USD",
       "date": "2026-03-24T09:45:00-04:00",
       "impact": "High",
-      "forecast": "",
+      "forecast": "51.3",
       "previous": "51.2"
     },
     {
@@ -805,7 +805,7 @@
       "country": "USD",
       "date": "2026-03-24T09:45:00-04:00",
       "impact": "High",
-      "forecast": "",
+      "forecast": "52.1",
       "previous": "52.3"
     },
     {
@@ -981,7 +981,7 @@
       "country": "USD",
       "date": "2026-03-25T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-207B",
       "previous": "-226B"
     },
     {
@@ -1221,7 +1221,7 @@
       "country": "USD",
       "date": "2026-03-27T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "54.2",
       "previous": "55.5"
     },
     {
