@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-23T17:39:50Z",
+    "updated_utc": "2026-03-23T19:57:16Z",
     "reason": "regular_update",
     "this_week": 82,
     "last_week": 76,
@@ -677,7 +677,7 @@
       "country": "JPY",
       "date": "2026-03-23T20:30:00-04:00",
       "impact": "Low",
-      "forecast": "52.9",
+      "forecast": "53.2",
       "previous": "52.8"
     },
     {
@@ -869,7 +869,7 @@
       "country": "AUD",
       "date": "2026-03-24T20:30:00-04:00",
       "impact": "High",
-      "forecast": "",
+      "forecast": "0.1%",
       "previous": "0.4%"
     },
     {
@@ -885,7 +885,7 @@
       "country": "AUD",
       "date": "2026-03-24T20:30:00-04:00",
       "impact": "High",
-      "forecast": "",
+      "forecast": "0.3%",
       "previous": "0.3%"
     },
     {
@@ -1021,7 +1021,7 @@
       "country": "USD",
       "date": "2026-03-25T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.4M",
       "previous": "6.2M"
     },
     {
@@ -1054,14 +1054,14 @@
       "date": "2026-03-25T21:35:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "0"
     },
     {
       "title": "BOJ Core CPI y/y",
       "country": "JPY",
       "date": "2026-03-26T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "1.6%",
       "previous": "1.7%"
     },
     {
