@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-24T14:42:47Z",
+    "updated_utc": "2026-03-24T17:44:07Z",
     "reason": "regular_update",
-    "this_week": 82,
+    "this_week": 83,
     "last_week": 76,
-    "total": 158
+    "total": 159
   },
   "events": [
     {
@@ -849,6 +849,14 @@
       "previous": ""
     },
     {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-03-24T18:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FOMC Member Barr Speaks",
       "country": "USD",
       "date": "2026-03-24T18:30:00-04:00",
@@ -1214,7 +1222,7 @@
       "date": "2026-03-27T06:33:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "3.31|1.5"
     },
     {
       "title": "Revised UoM Consumer Sentiment",
