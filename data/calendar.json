@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-25T12:06:55Z",
+    "updated_utc": "2026-03-25T15:55:03Z",
     "reason": "regular_update",
     "this_week": 85,
     "last_week": 76,
@@ -1009,20 +1009,20 @@
       "previous": "-0.3%"
     },
     {
+      "title": "Belgian NBB Business Climate",
+      "country": "EUR",
+      "date": "2026-03-25T09:28:00-04:00",
+      "impact": "Low",
+      "forecast": "-14.8",
+      "previous": "-13.7"
+    },
+    {
       "title": "SNB Quarterly Bulletin",
       "country": "CHF",
       "date": "2026-03-25T10:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "Belgian NBB Business Climate",
-      "country": "EUR",
-      "date": "2026-03-25T10:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-14.8",
-      "previous": "-13.7"
     },
     {
       "title": "Crude Oil Inventories",
