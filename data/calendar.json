@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-26T08:11:21Z",
+    "updated_utc": "2026-03-26T11:31:05Z",
     "reason": "regular_update",
     "this_week": 86,
     "last_week": 76,
@@ -1107,7 +1107,7 @@
     {
       "title": "30-y Bond Auction",
       "country": "GBP",
-      "date": "2026-03-26T06:32:00-04:00",
+      "date": "2026-03-26T06:02:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "5.29|3.2"
