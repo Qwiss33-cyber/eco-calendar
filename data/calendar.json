@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-26T15:55:47Z",
+    "updated_utc": "2026-03-26T19:39:47Z",
     "reason": "regular_update",
     "this_week": 87,
     "last_week": 76,
@@ -1137,14 +1137,6 @@
       "previous": "35B"
     },
     {
-      "title": "Gov Council Member Rogers Speaks",
-      "country": "CAD",
-      "date": "2026-03-26T12:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
       "title": "MPC Member Taylor Speaks",
       "country": "GBP",
       "date": "2026-03-26T12:00:00-04:00",
@@ -1156,6 +1148,14 @@
       "title": "MPC Member Greene Speaks",
       "country": "GBP",
       "date": "2026-03-26T12:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Gov Council Member Rogers Speaks",
+      "country": "CAD",
+      "date": "2026-03-26T13:10:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
