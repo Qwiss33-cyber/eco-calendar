@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-03-27T00:00:41Z",
+    "updated_utc": "2026-03-27T05:52:34Z",
     "reason": "regular_update",
-    "this_week": 87,
+    "this_week": 86,
     "last_week": 76,
-    "total": 163
+    "total": 162
   },
   "events": [
     {
@@ -1207,14 +1207,6 @@
       "impact": "Low",
       "forecast": "-24",
       "previous": "-19"
-    },
-    {
-      "title": "NAB Quarterly Business Confidence",
-      "country": "AUD",
-      "date": "2026-03-26T23:35:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0"
     },
     {
       "title": "Retail Sales m/m",
