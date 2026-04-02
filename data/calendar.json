@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-02T08:41:05Z",
+    "updated_utc": "2026-04-02T11:32:54Z",
     "reason": "regular_update",
     "this_week": 104,
     "last_week": 101,
@@ -1465,20 +1465,20 @@
       "previous": ""
     },
     {
-      "title": "Italian Retail Sales m/m",
-      "country": "EUR",
-      "date": "2026-04-02T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.6%"
-    },
-    {
       "title": "French 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-04-02T05:18:00-04:00",
+      "date": "2026-04-02T04:55:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.39|2.2"
+    },
+    {
+      "title": "Italian Retail Sales m/m",
+      "country": "EUR",
+      "date": "2026-04-02T05:06:00-04:00",
+      "impact": "Low",
+      "forecast": "0.3%",
+      "previous": "0.6%"
     },
     {
       "title": "Challenger Job Cuts y/y",
