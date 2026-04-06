@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-06T15:07:35Z",
+    "updated_utc": "2026-04-06T17:33:37Z",
     "reason": "regular_update",
-    "this_week": 89,
+    "this_week": 91,
     "last_week": 88,
-    "total": 177
+    "total": 179
   },
   "events": [
     {
@@ -813,7 +813,7 @@
       "country": "JPY",
       "date": "2026-04-06T19:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.7%",
+      "forecast": "-0.8%",
       "previous": "-1.0%"
     },
     {
@@ -861,7 +861,7 @@
       "country": "JPY",
       "date": "2026-04-07T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "112.3%",
+      "forecast": "112.4%",
       "previous": "112.4%"
     },
     {
@@ -877,7 +877,7 @@
       "country": "EUR",
       "date": "2026-04-07T03:15:00-04:00",
       "impact": "Low",
-      "forecast": "50.5",
+      "forecast": "50.7",
       "previous": "51.9"
     },
     {
@@ -885,7 +885,7 @@
       "country": "EUR",
       "date": "2026-04-07T03:45:00-04:00",
       "impact": "Low",
-      "forecast": "50.8",
+      "forecast": "51.0",
       "previous": "52.3"
     },
     {
@@ -917,7 +917,7 @@
       "country": "EUR",
       "date": "2026-04-07T04:30:00-04:00",
       "impact": "Low",
-      "forecast": "-7.5",
+      "forecast": "-7.8",
       "previous": "-3.1"
     },
     {
@@ -925,7 +925,7 @@
       "country": "GBP",
       "date": "2026-04-07T04:30:00-04:00",
       "impact": "Low",
-      "forecast": "51.2",
+      "forecast": "51.1",
       "previous": "51.2"
     },
     {
@@ -949,7 +949,7 @@
       "country": "USD",
       "date": "2026-04-07T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "-1.0%",
+      "forecast": "-1.1%",
       "previous": "0.0%"
     },
     {
@@ -957,7 +957,7 @@
       "country": "CAD",
       "date": "2026-04-07T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "57.2",
+      "forecast": "55.9",
       "previous": "56.6"
     },
     {
@@ -989,7 +989,7 @@
       "country": "USD",
       "date": "2026-04-07T15:00:00-04:00",
       "impact": "Low",
-      "forecast": "11.4B",
+      "forecast": "10.5B",
       "previous": "8.0B"
     },
     {
@@ -1135,6 +1135,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "5.5M"
+    },
+    {
+      "title": "FOMC Member Daly Speaks",
+      "country": "USD",
+      "date": "2026-04-08T13:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "10-y Bond Auction",
@@ -1351,6 +1359,14 @@
       "impact": "Low",
       "forecast": "0.5%",
       "previous": "-0.6%"
+    },
+    {
+      "title": "Italian 10-y Bond Auction",
+      "country": "EUR",
+      "date": "2026-04-10T05:33:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Employment Change",
