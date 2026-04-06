@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-06T10:19:58Z",
+    "updated_utc": "2026-04-06T12:08:44Z",
     "reason": "regular_update",
-    "this_week": 88,
+    "this_week": 89,
     "last_week": 88,
-    "total": 176
+    "total": 177
   },
   "events": [
     {
@@ -799,6 +799,14 @@
       "impact": "High",
       "forecast": "54.8",
       "previous": "56.1"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-04-06T13:00:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Household Spending y/y",
