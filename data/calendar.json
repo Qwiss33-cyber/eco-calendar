@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-09T10:19:49Z",
+    "updated_utc": "2026-04-09T15:11:06Z",
     "reason": "regular_update",
     "this_week": 90,
     "last_week": 88,
@@ -1241,14 +1241,6 @@
       "previous": "0.7%"
     },
     {
-      "title": "Final GDP Price Index q/q",
-      "country": "USD",
-      "date": "2026-04-09T08:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "3.8%",
-      "previous": "3.8%"
-    },
-    {
       "title": "Unemployment Claims",
       "country": "USD",
       "date": "2026-04-09T08:30:00-04:00",
@@ -1271,6 +1263,14 @@
       "impact": "Low",
       "forecast": "0.6%",
       "previous": "0.4%"
+    },
+    {
+      "title": "Final GDP Price Index q/q",
+      "country": "USD",
+      "date": "2026-04-09T08:33:00-04:00",
+      "impact": "Medium",
+      "forecast": "3.8%",
+      "previous": "3.8%"
     },
     {
       "title": "Final Wholesale Inventories m/m",
