@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-14T10:47:13Z",
+    "updated_utc": "2026-04-14T15:22:07Z",
     "reason": "regular_update",
-    "this_week": 104,
+    "this_week": 105,
     "last_week": 100,
-    "total": 204
+    "total": 205
   },
   "events": [
     {
@@ -1001,6 +1001,14 @@
       "previous": ""
     },
     {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-04-14T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "MPC Member Greene Speaks",
       "country": "GBP",
       "date": "2026-04-14T10:00:00-04:00",
@@ -1197,7 +1205,7 @@
       "country": "USD",
       "date": "2026-04-15T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "2.1M",
       "previous": "3.1M"
     },
     {
