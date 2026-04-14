@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-13T22:29:55Z",
+    "updated_utc": "2026-04-14T06:07:22Z",
     "reason": "regular_update",
-    "this_week": 102,
+    "this_week": 104,
     "last_week": 100,
-    "total": 202
+    "total": 204
   },
   "events": [
     {
@@ -913,20 +913,20 @@
       "previous": "-1"
     },
     {
-      "title": "Trade Balance",
-      "country": "CNY",
-      "date": "2026-04-13T22:03:00-04:00",
-      "impact": "Low",
-      "forecast": "760B",
-      "previous": "1503B"
-    },
-    {
       "title": "USD-Denominated Trade Balance",
       "country": "CNY",
-      "date": "2026-04-13T22:04:00-04:00",
+      "date": "2026-04-13T22:56:00-04:00",
       "impact": "Low",
       "forecast": "107.2B",
       "previous": "213.6B"
+    },
+    {
+      "title": "Trade Balance",
+      "country": "CNY",
+      "date": "2026-04-13T22:57:00-04:00",
+      "impact": "Low",
+      "forecast": "760B",
+      "previous": "1503B"
     },
     {
       "title": "Revised Industrial Production m/m",
@@ -993,9 +993,25 @@
       "previous": "0.0%"
     },
     {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-04-14T09:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "MPC Member Greene Speaks",
       "country": "GBP",
       "date": "2026-04-14T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-04-14T10:15:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
