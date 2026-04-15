@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-15T19:53:55Z",
+    "updated_utc": "2026-04-15T21:31:01Z",
     "reason": "regular_update",
     "this_week": 107,
     "last_week": 100,
@@ -1291,7 +1291,7 @@
     {
       "title": "TIC Long-Term Purchases",
       "country": "USD",
-      "date": "2026-04-15T16:00:00-04:00",
+      "date": "2026-04-15T16:04:00-04:00",
       "impact": "Low",
       "forecast": "36.6B",
       "previous": "15.5B"
