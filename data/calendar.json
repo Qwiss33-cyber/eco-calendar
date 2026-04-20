@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-20T04:28:46Z",
+    "updated_utc": "2026-04-20T06:31:15Z",
     "reason": "regular_update",
     "this_week": 79,
     "last_week": 79,
@@ -849,7 +849,7 @@
       "previous": "0.6%"
     },
     {
-      "title": "Fed Chair-Designate Warsh Testifies",
+      "title": "Fed Chairman-Designate Warsh Testifies",
       "country": "USD",
       "date": "2026-04-21T10:00:00-04:00",
       "impact": "High",
