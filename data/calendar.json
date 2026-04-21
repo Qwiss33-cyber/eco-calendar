@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-21T00:03:51Z",
+    "updated_utc": "2026-04-21T03:38:11Z",
     "reason": "regular_update",
-    "this_week": 79,
+    "this_week": 80,
     "last_week": 79,
-    "total": 158
+    "total": 159
   },
   "events": [
     {
@@ -785,14 +785,6 @@
       "previous": "5.2%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-04-21T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.7%"
-    },
-    {
       "title": "German Buba President Nagel Speaks",
       "country": "EUR",
       "date": "2026-04-21T02:30:00-04:00",
@@ -801,20 +793,20 @@
       "previous": ""
     },
     {
-      "title": "ZEW Economic Sentiment",
-      "country": "EUR",
-      "date": "2026-04-21T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-12.7",
-      "previous": "-8.5"
-    },
-    {
       "title": "German ZEW Economic Sentiment",
       "country": "EUR",
       "date": "2026-04-21T05:00:00-04:00",
       "impact": "Low",
       "forecast": "-5.9",
       "previous": "-0.5"
+    },
+    {
+      "title": "ZEW Economic Sentiment",
+      "country": "EUR",
+      "date": "2026-04-21T05:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-12.7",
+      "previous": "-8.5"
     },
     {
       "title": "ADP Weekly Employment Change",
@@ -839,6 +831,14 @@
       "impact": "High",
       "forecast": "1.4%",
       "previous": "0.6%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-04-21T08:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Fed Chairman-Designate Warsh Testifies",
@@ -951,6 +951,14 @@
       "impact": "Low",
       "forecast": "3.9%",
       "previous": "3.6%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-04-22T02:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.7%"
     },
     {
       "title": "MPC Member Breeden Speaks",
