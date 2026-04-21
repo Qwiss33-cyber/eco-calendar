@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-21T15:46:29Z",
+    "updated_utc": "2026-04-21T17:39:54Z",
     "reason": "regular_update",
-    "this_week": 80,
+    "this_week": 81,
     "last_week": 79,
-    "total": 159
+    "total": 160
   },
   "events": [
     {
@@ -913,6 +913,14 @@
       "previous": "-0.1%"
     },
     {
+      "title": "RBA Assist Gov Hunter Speaks",
+      "country": "AUD",
+      "date": "2026-04-22T01:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "CPI y/y",
       "country": "GBP",
       "date": "2026-04-22T02:00:00-04:00",
@@ -1173,7 +1181,7 @@
       "country": "USD",
       "date": "2026-04-23T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "96B",
       "previous": "59B"
     },
     {
