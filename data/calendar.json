@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-23T12:42:44Z",
+    "updated_utc": "2026-04-23T14:23:14Z",
     "reason": "regular_update",
     "this_week": 81,
     "last_week": 79,
@@ -1161,6 +1161,14 @@
       "previous": "207K"
     },
     {
+      "title": "GfK Consumer Confidence",
+      "country": "GBP",
+      "date": "2026-04-23T09:21:00-04:00",
+      "impact": "Low",
+      "forecast": "-24",
+      "previous": "-21"
+    },
+    {
       "title": "Flash Manufacturing PMI",
       "country": "USD",
       "date": "2026-04-23T09:45:00-04:00",
@@ -1191,14 +1199,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "GfK Consumer Confidence",
-      "country": "GBP",
-      "date": "2026-04-23T19:01:00-04:00",
-      "impact": "Low",
-      "forecast": "-24",
-      "previous": "-21"
     },
     {
       "title": "National Core CPI y/y",
