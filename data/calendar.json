@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-24T06:24:59Z",
+    "updated_utc": "2026-04-24T08:27:03Z",
     "reason": "regular_update",
-    "this_week": 81,
+    "this_week": 80,
     "last_week": 79,
-    "total": 160
+    "total": 159
   },
   "events": [
     {
@@ -1223,14 +1223,6 @@
       "impact": "High",
       "forecast": "0.0%",
       "previous": "-0.4%"
-    },
-    {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-04-24T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.7%"
     },
     {
       "title": "SNB Chairman Schlegel Speaks",
