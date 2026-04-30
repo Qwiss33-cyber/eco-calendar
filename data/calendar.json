@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-04-30T12:52:30Z",
+    "updated_utc": "2026-04-30T14:54:23Z",
     "reason": "regular_update",
-    "this_week": 117,
+    "this_week": 118,
     "last_week": 116,
-    "total": 233
+    "total": 234
   },
   "events": [
     {
@@ -1683,10 +1683,18 @@
     {
       "title": "CB Leading Index m/m",
       "country": "USD",
+      "date": "2026-04-30T09:59:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.1%"
+    },
+    {
+      "title": "CB Leading Index m/m",
+      "country": "USD",
       "date": "2026-04-30T10:00:00-04:00",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "-0.1%"
+      "previous": "0.3%"
     },
     {
       "title": "Natural Gas Storage",
