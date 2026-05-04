@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-04T11:10:41Z",
+    "updated_utc": "2026-05-04T12:53:47Z",
     "reason": "regular_update",
     "this_week": 114,
     "last_week": 114,
@@ -1801,14 +1801,6 @@
       "previous": ""
     },
     {
-      "title": "FOMC Member Waller Speaks",
-      "country": "USD",
-      "date": "2026-05-08T19:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
-    },
-    {
       "title": "FOMC Member Bowman Speaks",
       "country": "USD",
       "date": "2026-05-08T19:30:00-04:00",
@@ -1826,6 +1818,14 @@
     },
     {
       "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-05-08T19:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Waller Speaks",
       "country": "USD",
       "date": "2026-05-08T19:30:00-04:00",
       "impact": "Low",
