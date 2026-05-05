@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-05T11:43:42Z",
+    "updated_utc": "2026-05-05T12:54:41Z",
     "reason": "regular_update",
     "this_week": 115,
     "last_week": 114,
@@ -1161,14 +1161,6 @@
       "previous": ""
     },
     {
-      "title": "French Gov Budget Balance",
-      "country": "EUR",
-      "date": "2026-05-05T08:05:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-32.1B"
-    },
-    {
       "title": "Trade Balance",
       "country": "CAD",
       "date": "2026-05-05T08:30:00-04:00",
@@ -1255,6 +1247,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "-2.7%"
+    },
+    {
+      "title": "French Gov Budget Balance",
+      "country": "EUR",
+      "date": "2026-05-05T11:05:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-32.1B"
     },
     {
       "title": "FOMC Member Barr Speaks",
