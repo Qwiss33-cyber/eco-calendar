@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-06T10:36:09Z",
-    "reason": "regular_update",
+    "updated_utc": "2026-05-06T12:16:29Z",
+    "reason": "actual_fetch",
     "this_week": 115,
     "last_week": 114,
     "total": 229
