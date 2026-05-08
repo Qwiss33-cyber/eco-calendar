@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-08T20:03:35Z",
+    "updated_utc": "2026-05-08T21:12:15Z",
     "reason": "regular_update",
-    "this_week": 118,
+    "this_week": 119,
     "last_week": 114,
-    "total": 232
+    "total": 233
   },
   "events": [
     {
@@ -1812,6 +1812,14 @@
       "title": "FOMC Member Goolsbee Speaks",
       "country": "USD",
       "date": "2026-05-08T14:20:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Financial Stability Report",
+      "country": "USD",
+      "date": "2026-05-08T16:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
