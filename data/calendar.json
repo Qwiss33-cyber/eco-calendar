@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-08T10:10:01Z",
+    "updated_utc": "2026-05-08T11:43:29Z",
     "reason": "regular_update",
-    "this_week": 115,
+    "this_week": 118,
     "last_week": 114,
-    "total": 229
+    "total": 232
   },
   "events": [
     {
@@ -1785,9 +1785,33 @@
       "previous": "1.4%"
     },
     {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-05-08T11:05:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-05-08T12:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "German Buba President Nagel Speaks",
       "country": "EUR",
       "date": "2026-05-08T12:15:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-05-08T14:20:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
