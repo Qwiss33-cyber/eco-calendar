@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-10T20:31:27Z",
-    "reason": "weekend_update",
+    "updated_utc": "2026-05-10T22:07:27Z",
+    "reason": "regular_update",
     "this_week": 93,
     "last_week": 114,
     "total": 207
@@ -1273,6 +1273,14 @@
       "previous": "-2.3M"
     },
     {
+      "title": "Gov Council Member Alexopoulos Speaks",
+      "country": "CAD",
+      "date": "2026-05-13T11:05:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FOMC Member Collins Speaks",
       "country": "USD",
       "date": "2026-05-13T11:30:00-04:00",
@@ -1300,14 +1308,6 @@
       "title": "BOC Summary of Deliberations",
       "country": "CAD",
       "date": "2026-05-13T13:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "Gov Council Member Alexopoulos Speaks",
-      "country": "CAD",
-      "date": "2026-05-13T14:30:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
