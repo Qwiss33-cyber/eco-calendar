@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-12T12:07:10Z",
+    "updated_utc": "2026-05-12T14:46:07Z",
     "reason": "regular_update",
-    "this_week": 93,
+    "this_week": 94,
     "last_week": 93,
-    "total": 186
+    "total": 187
   },
   "events": [
     {
@@ -947,7 +947,7 @@
     {
       "title": "Fed Chair Nomination Vote",
       "country": "USD",
-      "date": "2026-05-12T12:00:00-04:00",
+      "date": "2026-05-12T11:59:00-04:00",
       "impact": "High",
       "forecast": "Pass",
       "previous": ""
@@ -999,6 +999,14 @@
       "impact": "Low",
       "forecast": "2.95T",
       "previous": "2.71T"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-05-12T21:10:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Wage Price Index q/q",
