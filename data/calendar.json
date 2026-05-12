@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-12T14:46:07Z",
+    "updated_utc": "2026-05-12T16:57:14Z",
     "reason": "regular_update",
     "this_week": 94,
     "last_week": 93,
@@ -937,20 +937,20 @@
       "previous": "3.3%"
     },
     {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-05-12T09:10:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "CB Leading Index m/m",
       "country": "AUD",
       "date": "2026-05-12T10:30:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "1.1%"
-    },
-    {
-      "title": "Fed Chair Nomination Vote",
-      "country": "USD",
-      "date": "2026-05-12T11:59:00-04:00",
-      "impact": "High",
-      "forecast": "Pass",
-      "previous": ""
     },
     {
       "title": "FOMC Member Goolsbee Speaks",
@@ -999,14 +999,6 @@
       "impact": "Low",
       "forecast": "2.95T",
       "previous": "2.71T"
-    },
-    {
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-05-12T21:10:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "Wage Price Index q/q",
@@ -1134,6 +1126,14 @@
       "date": "2026-05-13T11:30:00-04:00",
       "impact": "Low",
       "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Fed Chair Nomination Vote",
+      "country": "USD",
+      "date": "2026-05-13T12:29:00-04:00",
+      "impact": "High",
+      "forecast": "Pass",
       "previous": ""
     },
     {
