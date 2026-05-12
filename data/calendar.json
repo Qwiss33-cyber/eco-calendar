@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-12T07:32:15Z",
+    "updated_utc": "2026-05-12T10:07:03Z",
     "reason": "regular_update",
     "this_week": 93,
     "last_week": 93,
@@ -886,7 +886,7 @@
       "date": "2026-05-12T05:00:00-04:00",
       "impact": "Low",
       "forecast": "-21.6",
-      "previous": "-20.9"
+      "previous": "-20.4"
     },
     {
       "title": "Annual Budget Release",
