@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-13T23:16:26Z",
+    "updated_utc": "2026-05-14T04:13:31Z",
     "reason": "regular_update",
-    "this_week": 94,
+    "this_week": 93,
     "last_week": 93,
-    "total": 187
+    "total": 186
   },
   "events": [
     {
@@ -1171,7 +1171,7 @@
     {
       "title": "Visitor Arrivals m/m",
       "country": "NZD",
-      "date": "2026-05-13T18:45:00-04:00",
+      "date": "2026-05-13T18:50:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "1.7%"
@@ -1191,14 +1191,6 @@
       "impact": "Low",
       "forecast": "1.9%",
       "previous": "2.0%"
-    },
-    {
-      "title": "MI Inflation Expectations",
-      "country": "AUD",
-      "date": "2026-05-13T21:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "5.9%"
     },
     {
       "title": "30-y Bond Auction",
