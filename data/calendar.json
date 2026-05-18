@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-18T00:07:12Z",
+    "updated_utc": "2026-05-18T04:37:38Z",
     "reason": "regular_update",
     "this_week": 114,
     "last_week": 114,
@@ -985,14 +985,6 @@
       "previous": "5.4%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-05-18T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-7.3%"
-    },
-    {
       "title": "MPC Member Greene Speaks",
       "country": "GBP",
       "date": "2026-05-18T03:35:00-04:00",
@@ -1727,6 +1719,14 @@
       "impact": "Low",
       "forecast": "20.5B",
       "previous": "12.6B"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-05-22T02:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-7.3%"
     },
     {
       "title": "German ifo Business Climate",
