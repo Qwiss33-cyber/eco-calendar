@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-18T15:40:03Z",
+    "updated_utc": "2026-05-18T17:46:45Z",
     "reason": "regular_update",
-    "this_week": 114,
+    "this_week": 115,
     "last_week": 114,
-    "total": 228
+    "total": 229
   },
   "events": [
     {
@@ -1031,6 +1031,14 @@
       "impact": "Low",
       "forecast": "34",
       "previous": "34"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-05-18T15:35:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "TIC Long-Term Purchases",
