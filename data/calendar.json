@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-18T12:00:23Z",
+    "updated_utc": "2026-05-18T15:40:03Z",
     "reason": "regular_update",
     "this_week": 114,
     "last_week": 114,
@@ -1092,7 +1092,7 @@
       "title": "Monetary Policy Meeting Minutes",
       "country": "AUD",
       "date": "2026-05-18T21:30:00-04:00",
-      "impact": "Low",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
