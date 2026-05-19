@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-19T14:17:50Z",
+    "updated_utc": "2026-05-19T17:17:10Z",
     "reason": "regular_update",
     "this_week": 117,
     "last_week": 114,
@@ -1259,7 +1259,7 @@
     {
       "title": "GDT Price Index",
       "country": "NZD",
-      "date": "2026-05-19T10:50:00-04:00",
+      "date": "2026-05-19T10:53:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "1.5%"
@@ -1397,7 +1397,7 @@
       "country": "USD",
       "date": "2026-05-20T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-2.5M",
       "previous": "-4.3M"
     },
     {
