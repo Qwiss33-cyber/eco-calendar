@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-19T11:47:43Z",
+    "updated_utc": "2026-05-19T14:17:50Z",
     "reason": "regular_update",
     "this_week": 117,
     "last_week": 114,
@@ -1233,20 +1233,20 @@
       "previous": "-8.4%"
     },
     {
-      "title": "Core CPI m/m",
-      "country": "CAD",
-      "date": "2026-05-19T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.2%"
-    },
-    {
       "title": "NHPI m/m",
       "country": "CAD",
       "date": "2026-05-19T08:30:00-04:00",
       "impact": "Low",
       "forecast": "0.0%",
       "previous": "-0.2%"
+    },
+    {
+      "title": "Core CPI m/m",
+      "country": "CAD",
+      "date": "2026-05-19T08:32:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "0.2%"
     },
     {
       "title": "Pending Home Sales m/m",
