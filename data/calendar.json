@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-21T12:10:09Z",
+    "updated_utc": "2026-05-21T15:49:22Z",
     "reason": "regular_update",
     "this_week": 117,
     "last_week": 114,
@@ -1651,7 +1651,7 @@
     {
       "title": "Consumer Confidence",
       "country": "EUR",
-      "date": "2026-05-21T10:00:00-04:00",
+      "date": "2026-05-21T10:02:00-04:00",
       "impact": "Low",
       "forecast": "-21",
       "previous": "-21"
