@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-22T05:44:02Z",
+    "updated_utc": "2026-05-22T08:38:59Z",
     "reason": "regular_update",
-    "this_week": 117,
+    "this_week": 116,
     "last_week": 114,
-    "total": 231
+    "total": 230
   },
   "events": [
     {
@@ -1743,14 +1743,6 @@
       "impact": "Low",
       "forecast": "20.7B",
       "previous": "12.6B"
-    },
-    {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-05-22T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-7.3%"
     },
     {
       "title": "German ifo Business Climate",
