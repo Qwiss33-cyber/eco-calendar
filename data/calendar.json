@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-22T13:42:06Z",
+    "updated_utc": "2026-05-22T16:04:50Z",
     "reason": "regular_update",
     "this_week": 116,
     "last_week": 114,
@@ -1803,7 +1803,7 @@
     {
       "title": "Belgian NBB Business Climate",
       "country": "EUR",
-      "date": "2026-05-22T09:00:00-04:00",
+      "date": "2026-05-22T08:40:00-04:00",
       "impact": "Low",
       "forecast": "-13.5",
       "previous": "-14.2"
