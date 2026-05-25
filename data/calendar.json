@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-25T20:40:44Z",
+    "updated_utc": "2026-05-25T21:49:56Z",
     "reason": "regular_update",
     "this_week": 96,
     "last_week": 92,
@@ -1102,7 +1102,7 @@
       "date": "2026-05-28T05:33:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "3.77|1.7"
     },
     {
       "title": "SNB Chairman Schlegel Speaks",
