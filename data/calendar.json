@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-26T08:54:05Z",
+    "updated_utc": "2026-05-26T14:27:09Z",
     "reason": "regular_update",
-    "this_week": 96,
+    "this_week": 95,
     "last_week": 92,
-    "total": 188
+    "total": 187
   },
   "events": [
     {
@@ -803,7 +803,7 @@
     {
       "title": "BOJ Core CPI y/y",
       "country": "JPY",
-      "date": "2026-05-26T04:03:00-04:00",
+      "date": "2026-05-26T01:00:00-04:00",
       "impact": "Low",
       "forecast": "1.7%",
       "previous": "1.7%"
@@ -819,7 +819,7 @@
     {
       "title": "Gov Council Member Vincent Speaks",
       "country": "CAD",
-      "date": "2026-05-26T08:30:00-04:00",
+      "date": "2026-05-26T08:20:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -1230,15 +1230,7 @@
       "date": "2026-05-28T10:30:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "BOC Gov Macklem Speaks",
-      "country": "CAD",
-      "date": "2026-05-28T11:00:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
+      "previous": "101B"
     },
     {
       "title": "BOC Press Conference",
