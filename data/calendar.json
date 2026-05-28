@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-28T12:39:31Z",
+    "updated_utc": "2026-05-28T16:41:01Z",
     "reason": "regular_update",
-    "this_week": 96,
+    "this_week": 98,
     "last_week": 92,
-    "total": 188
+    "total": 190
   },
   "events": [
     {
@@ -1247,6 +1247,22 @@
       "impact": "Low",
       "forecast": "-3.8M",
       "previous": "-7.9M"
+    },
+    {
+      "title": "FOMC Member Musalem Speaks",
+      "country": "USD",
+      "date": "2026-05-28T13:10:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "Treasury Sec Bessent Speaks",
+      "country": "USD",
+      "date": "2026-05-28T14:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Barkin Speaks",
