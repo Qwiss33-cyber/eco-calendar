@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-28T09:04:28Z",
+    "updated_utc": "2026-05-28T12:39:31Z",
     "reason": "regular_update",
     "this_week": 96,
     "last_week": 92,
@@ -1099,7 +1099,7 @@
     {
       "title": "Italian 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-05-28T05:33:00-04:00",
+      "date": "2026-05-28T05:09:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.77|1.7"
