@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-05-29T02:31:15Z",
+    "updated_utc": "2026-05-29T06:38:25Z",
     "reason": "regular_update",
-    "this_week": 98,
+    "this_week": 97,
     "last_week": 92,
-    "total": 190
+    "total": 189
   },
   "events": [
     {
@@ -1311,14 +1311,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": "-10.6"
-    },
-    {
-      "title": "Private Sector Credit m/m",
-      "country": "AUD",
-      "date": "2026-05-28T22:00:00-04:00",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.7%"
     },
     {
       "title": "Consumer Confidence",
