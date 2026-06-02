@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-02T01:38:06Z",
+    "updated_utc": "2026-06-02T06:18:38Z",
     "reason": "regular_update",
-    "this_week": 114,
+    "this_week": 115,
     "last_week": 114,
-    "total": 228
+    "total": 229
   },
   "events": [
     {
@@ -1193,14 +1193,6 @@
       "previous": "-21.1B"
     },
     {
-      "title": "Private Sector Credit m/m",
-      "country": "AUD",
-      "date": "2026-06-01T21:40:00-04:00",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.7%"
-    },
-    {
       "title": "10-y Bond Auction",
       "country": "JPY",
       "date": "2026-06-01T23:35:00-04:00",
@@ -1309,7 +1301,7 @@
       "country": "USD",
       "date": "2026-06-02T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "6.86M",
+      "forecast": "6.87M",
       "previous": "6.87M"
     },
     {
@@ -1365,7 +1357,7 @@
       "country": "NZD",
       "date": "2026-06-02T18:45:00-04:00",
       "impact": "Low",
-      "forecast": "-1.2%",
+      "forecast": "-1.7%",
       "previous": "3.7%"
     },
     {
@@ -1385,11 +1377,27 @@
       "previous": "52.6"
     },
     {
+      "title": "Private Sector Credit m/m",
+      "country": "AUD",
+      "date": "2026-06-02T21:50:00-04:00",
+      "impact": "Low",
+      "forecast": "0.6%",
+      "previous": "0.7%"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-06-02T23:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Spanish Services PMI",
       "country": "EUR",
       "date": "2026-06-03T03:15:00-04:00",
       "impact": "Low",
-      "forecast": "48.3",
+      "forecast": "48.2",
       "previous": "47.9"
     },
     {
@@ -1397,7 +1405,7 @@
       "country": "EUR",
       "date": "2026-06-03T03:45:00-04:00",
       "impact": "Low",
-      "forecast": "49.3",
+      "forecast": "49.2",
       "previous": "49.8"
     },
     {
@@ -1405,7 +1413,7 @@
       "country": "EUR",
       "date": "2026-06-03T03:50:00-04:00",
       "impact": "Low",
-      "forecast": "42.9",
+      "forecast": "43.0",
       "previous": "42.9"
     },
     {
@@ -1453,7 +1461,7 @@
       "country": "USD",
       "date": "2026-06-03T08:15:00-04:00",
       "impact": "High",
-      "forecast": "118K",
+      "forecast": "116K",
       "previous": "109K"
     },
     {
@@ -1461,7 +1469,7 @@
       "country": "CAD",
       "date": "2026-06-03T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "previous": "-0.1%"
     },
     {
@@ -1477,7 +1485,7 @@
       "country": "USD",
       "date": "2026-06-03T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "50.9",
+      "forecast": "51.0",
       "previous": "50.9"
     },
     {
@@ -1485,7 +1493,7 @@
       "country": "USD",
       "date": "2026-06-03T10:00:00-04:00",
       "impact": "High",
-      "forecast": "53.8",
+      "forecast": "53.7",
       "previous": "53.6"
     },
     {
@@ -1501,7 +1509,7 @@
       "country": "USD",
       "date": "2026-06-03T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "4.5%",
+      "forecast": "4.6%",
       "previous": "1.5%"
     },
     {
@@ -1541,7 +1549,7 @@
       "country": "AUD",
       "date": "2026-06-03T21:30:00-04:00",
       "impact": "Low",
-      "forecast": "-1.45B",
+      "forecast": "1.23B",
       "previous": "-1.84B"
     },
     {
@@ -1629,7 +1637,7 @@
       "country": "USD",
       "date": "2026-06-04T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.5%",
       "previous": "0.8%"
     },
     {
@@ -1677,7 +1685,7 @@
       "country": "JPY",
       "date": "2026-06-04T19:30:00-04:00",
       "impact": "Low",
-      "forecast": "-1.4%",
+      "forecast": "-1.5%",
       "previous": "-2.9%"
     },
     {
@@ -1693,7 +1701,7 @@
       "country": "JPY",
       "date": "2026-06-05T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "114.5%",
+      "forecast": "114.4%",
       "previous": "114.5%"
     },
     {
@@ -1701,7 +1709,7 @@
       "country": "GBP",
       "date": "2026-06-05T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.0%",
       "previous": "-0.1%"
     },
     {
@@ -1717,7 +1725,7 @@
       "country": "EUR",
       "date": "2026-06-05T02:45:00-04:00",
       "impact": "Low",
-      "forecast": "-6.5B",
+      "forecast": "-6.2B",
       "previous": "-6.9B"
     },
     {
@@ -1741,7 +1749,7 @@
       "country": "EUR",
       "date": "2026-06-05T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.4%",
       "previous": "0.8%"
     },
     {
@@ -1757,7 +1765,7 @@
       "country": "CAD",
       "date": "2026-06-05T08:30:00-04:00",
       "impact": "High",
-      "forecast": "10.2K",
+      "forecast": "10.0K",
       "previous": "-17.7K"
     },
     {
@@ -1781,7 +1789,7 @@
       "country": "USD",
       "date": "2026-06-05T08:30:00-04:00",
       "impact": "High",
-      "forecast": "87K",
+      "forecast": "85K",
       "previous": "115K"
     },
     {
@@ -1821,7 +1829,7 @@
       "country": "USD",
       "date": "2026-06-05T15:00:00-04:00",
       "impact": "Low",
-      "forecast": "17.7B",
+      "forecast": "17.8B",
       "previous": "24.9B"
     },
     {
