@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-02T10:57:02Z",
+    "updated_utc": "2026-06-02T14:47:25Z",
     "reason": "regular_update",
     "this_week": 115,
     "last_week": 114,
@@ -1307,13 +1307,13 @@
     {
       "title": "RCM/TIPP Economic Optimism",
       "country": "USD",
-      "date": "2026-06-02T10:10:00-04:00",
+      "date": "2026-06-02T10:02:00-04:00",
       "impact": "Low",
       "forecast": "44.5",
       "previous": "42.6"
     },
     {
-      "title": "Wards Total Vehicle Sales",
+      "title": "Omdia Total Vehicle Sales",
       "country": "USD",
       "date": "2026-06-02T10:15:00-04:00",
       "impact": "Low",
@@ -1323,7 +1323,7 @@
     {
       "title": "GDT Price Index",
       "country": "NZD",
-      "date": "2026-06-02T10:50:00-04:00",
+      "date": "2026-06-02T10:59:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "0.6%"
@@ -1517,7 +1517,7 @@
       "country": "USD",
       "date": "2026-06-03T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-2.9M",
       "previous": "-3.3M"
     },
     {
