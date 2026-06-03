@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-03T06:32:29Z",
+    "updated_utc": "2026-06-03T11:28:43Z",
     "reason": "regular_update",
     "this_week": 115,
     "last_week": 114,
@@ -1385,6 +1385,14 @@
       "previous": ""
     },
     {
+      "title": "Private Sector Credit m/m",
+      "country": "AUD",
+      "date": "2026-06-03T02:19:00-04:00",
+      "impact": "Low",
+      "forecast": "0.6%",
+      "previous": "0.7%"
+    },
+    {
       "title": "Spanish Services PMI",
       "country": "EUR",
       "date": "2026-06-03T03:15:00-04:00",
@@ -1679,14 +1687,6 @@
       "impact": "Low",
       "forecast": "-1.5%",
       "previous": "-2.9%"
-    },
-    {
-      "title": "Private Sector Credit m/m",
-      "country": "AUD",
-      "date": "2026-06-04T21:50:00-04:00",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.7%"
     },
     {
       "title": "RBA Deputy Gov Hauser Speaks",
