@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-04T17:24:42Z",
+    "updated_utc": "2026-06-04T19:34:42Z",
     "reason": "regular_update",
     "this_week": 120,
     "last_week": 114,
@@ -1805,7 +1805,7 @@
       "country": "CAD",
       "date": "2026-06-05T08:30:00-04:00",
       "impact": "High",
-      "forecast": "10.1K",
+      "forecast": "10.6K",
       "previous": "-17.7K"
     },
     {
