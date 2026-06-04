@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-04T11:39:30Z",
+    "updated_utc": "2026-06-04T14:20:10Z",
     "reason": "regular_update",
-    "this_week": 118,
+    "this_week": 120,
     "last_week": 114,
-    "total": 232
+    "total": 234
   },
   "events": [
     {
@@ -1649,6 +1649,14 @@
       "previous": "2.3%"
     },
     {
+      "title": "Treasury Sec Bessent Speaks",
+      "country": "USD",
+      "date": "2026-06-04T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FOMC Member Bowman Speaks",
       "country": "USD",
       "date": "2026-06-04T10:00:00-04:00",
@@ -1693,6 +1701,14 @@
       "country": "USD",
       "date": "2026-06-04T13:10:00-04:00",
       "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-06-04T15:00:00-04:00",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
