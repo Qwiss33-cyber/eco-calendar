@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-04T00:03:04Z",
+    "updated_utc": "2026-06-04T04:57:50Z",
     "reason": "regular_update",
-    "this_week": 115,
+    "this_week": 118,
     "last_week": 114,
-    "total": 229
+    "total": 232
   },
   "events": [
     {
@@ -1531,7 +1531,7 @@
     {
       "title": "FOMC Member Logan Speaks",
       "country": "USD",
-      "date": "2026-06-03T15:00:00-04:00",
+      "date": "2026-06-03T16:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
@@ -1649,6 +1649,14 @@
       "previous": "2.3%"
     },
     {
+      "title": "FOMC Member Bowman Speaks",
+      "country": "USD",
+      "date": "2026-06-04T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Natural Gas Storage",
       "country": "USD",
       "date": "2026-06-04T10:30:00-04:00",
@@ -1661,6 +1669,22 @@
       "country": "GBP",
       "date": "2026-06-04T11:40:00-04:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Daly Speaks",
+      "country": "USD",
+      "date": "2026-06-04T11:40:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Schmid Speaks",
+      "country": "USD",
+      "date": "2026-06-04T13:00:00-04:00",
+      "impact": "Low",
       "forecast": "",
       "previous": ""
     },
