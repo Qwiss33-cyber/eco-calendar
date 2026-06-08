@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-08T06:56:53Z",
+    "updated_utc": "2026-06-08T11:51:39Z",
     "reason": "regular_update",
-    "this_week": 77,
+    "this_week": 76,
     "last_week": 78,
-    "total": 155
+    "total": 154
   },
   "events": [
     {
@@ -703,14 +703,6 @@
       "impact": "Low",
       "forecast": "-2.2%",
       "previous": "5.0%"
-    },
-    {
-      "title": "SECO Consumer Climate",
-      "country": "CHF",
-      "date": "2026-06-08T03:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-38",
-      "previous": "-40"
     },
     {
       "title": "Sentix Investor Confidence",
