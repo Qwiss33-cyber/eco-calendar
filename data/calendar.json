@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-09T20:33:38Z",
+    "updated_utc": "2026-06-09T22:09:54Z",
     "reason": "regular_update",
-    "this_week": 76,
+    "this_week": 75,
     "last_week": 78,
-    "total": 154
+    "total": 153
   },
   "events": [
     {
@@ -869,7 +869,7 @@
       "country": "CNY",
       "date": "2026-06-09T21:30:00-04:00",
       "impact": "Low",
-      "forecast": "3.8%",
+      "forecast": "3.9%",
       "previous": "2.8%"
     },
     {
@@ -957,7 +957,7 @@
       "country": "USD",
       "date": "2026-06-10T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-5.1M",
+      "forecast": "-3.0M",
       "previous": "-8.0M"
     },
     {
@@ -973,7 +973,7 @@
       "country": "USD",
       "date": "2026-06-10T14:00:00-04:00",
       "impact": "Low",
-      "forecast": "-280.9B",
+      "forecast": "-282.9B",
       "previous": "215.0B"
     },
     {
@@ -1085,7 +1085,7 @@
       "country": "USD",
       "date": "2026-06-11T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "101B",
       "previous": "95B"
     },
     {
@@ -1199,14 +1199,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "Capacity Utilization Rate",
-      "country": "CAD",
-      "date": "2026-06-12T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "78.6%",
-      "previous": "78.5%"
     },
     {
       "title": "CB Leading Index m/m",
