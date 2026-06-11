@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-11T06:21:05Z",
+    "updated_utc": "2026-06-11T11:00:36Z",
     "reason": "regular_update",
     "this_week": 75,
     "last_week": 78,
@@ -1001,22 +1001,6 @@
       "previous": "5.6%"
     },
     {
-      "title": "M2 Money Supply y/y",
-      "country": "CNY",
-      "date": "2026-06-11T04:03:00-04:00",
-      "impact": "Low",
-      "forecast": "8.6%",
-      "previous": "8.6%"
-    },
-    {
-      "title": "New Loans",
-      "country": "CNY",
-      "date": "2026-06-11T04:03:00-04:00",
-      "impact": "Low",
-      "forecast": "450B",
-      "previous": "-10B"
-    },
-    {
       "title": "Eurogroup Meetings",
       "country": "EUR",
       "date": "2026-06-11T05:15:00-04:00",
@@ -1183,6 +1167,22 @@
       "impact": "Low",
       "forecast": "0.1%",
       "previous": "0.1%"
+    },
+    {
+      "title": "M2 Money Supply y/y",
+      "country": "CNY",
+      "date": "2026-06-12T04:03:00-04:00",
+      "impact": "Low",
+      "forecast": "8.6%",
+      "previous": "8.6%"
+    },
+    {
+      "title": "New Loans",
+      "country": "CNY",
+      "date": "2026-06-12T04:03:00-04:00",
+      "impact": "Low",
+      "forecast": "450B",
+      "previous": "-10B"
     },
     {
       "title": "Consumer Inflation Expectations",
