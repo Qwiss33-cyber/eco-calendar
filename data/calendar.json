@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-12T06:49:04Z",
+    "updated_utc": "2026-06-12T10:53:33Z",
     "reason": "regular_update",
     "this_week": 75,
     "last_week": 78,
@@ -1169,9 +1169,17 @@
       "previous": "0.1%"
     },
     {
+      "title": "Consumer Inflation Expectations",
+      "country": "GBP",
+      "date": "2026-06-12T04:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.2%"
+    },
+    {
       "title": "M2 Money Supply y/y",
       "country": "CNY",
-      "date": "2026-06-12T04:03:00-04:00",
+      "date": "2026-06-12T05:00:00-04:00",
       "impact": "Low",
       "forecast": "8.6%",
       "previous": "8.6%"
@@ -1179,18 +1187,10 @@
     {
       "title": "New Loans",
       "country": "CNY",
-      "date": "2026-06-12T04:03:00-04:00",
+      "date": "2026-06-12T05:00:00-04:00",
       "impact": "Low",
       "forecast": "450B",
       "previous": "-10B"
-    },
-    {
-      "title": "Consumer Inflation Expectations",
-      "country": "GBP",
-      "date": "2026-06-12T04:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.2%"
     },
     {
       "title": "ECOFIN Meetings",
