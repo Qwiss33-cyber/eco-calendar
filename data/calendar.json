@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-14T14:29:32Z",
+    "updated_utc": "2026-06-14T16:05:09Z",
     "reason": "weekend_update",
-    "this_week": 99,
+    "this_week": 103,
     "last_week": 78,
-    "total": 177
+    "total": 181
   },
   "events": [
     {
@@ -705,6 +705,14 @@
       "previous": "4.71B"
     },
     {
+      "title": "G7 Meetings",
+      "country": "All",
+      "date": "2026-06-15T04:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Industrial Production m/m",
       "country": "EUR",
       "date": "2026-06-15T05:00:00-04:00",
@@ -877,6 +885,14 @@
       "country": "JPY",
       "date": "2026-06-16T01:30:00-04:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "G7 Meetings",
+      "country": "All",
+      "date": "2026-06-16T04:45:00-04:00",
+      "impact": "Low",
       "forecast": "",
       "previous": ""
     },
@@ -1057,6 +1073,14 @@
       "previous": "0.0%"
     },
     {
+      "title": "G7 Meetings",
+      "country": "All",
+      "date": "2026-06-17T04:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Final Core CPI y/y",
       "country": "EUR",
       "date": "2026-06-17T05:00:00-04:00",
@@ -1095,6 +1119,14 @@
       "impact": "Medium",
       "forecast": "0.5%",
       "previous": "0.5%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-06-17T09:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Business Inventories m/m",
