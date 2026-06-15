@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-15T18:10:58Z",
+    "updated_utc": "2026-06-15T21:18:48Z",
     "reason": "regular_update",
-    "this_week": 103,
+    "this_week": 104,
     "last_week": 103,
-    "total": 206
+    "total": 207
   },
   "events": [
     {
@@ -1029,7 +1029,7 @@
       "country": "CNY",
       "date": "2026-06-15T22:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.2%",
+      "forecast": "-0.3%",
       "previous": "0.2%"
     },
     {
@@ -1101,7 +1101,7 @@
       "country": "EUR",
       "date": "2026-06-16T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "-5.5",
+      "forecast": "-5.8",
       "previous": "-10.2"
     },
     {
@@ -1109,7 +1109,7 @@
       "country": "EUR",
       "date": "2026-06-16T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "-7.6",
+      "forecast": "-7.2",
       "previous": "-9.1"
     },
     {
@@ -1133,7 +1133,7 @@
       "country": "CAD",
       "date": "2026-06-16T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "11.28B",
+      "forecast": "8.16B",
       "previous": "4.62B"
     },
     {
@@ -1182,14 +1182,14 @@
       "date": "2026-06-16T17:00:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "94.7"
     },
     {
       "title": "Current Account",
       "country": "NZD",
       "date": "2026-06-16T18:45:00-04:00",
       "impact": "Low",
-      "forecast": "-1.19B",
+      "forecast": "-1.03B",
       "previous": "-5.98B"
     },
     {
@@ -1297,6 +1297,14 @@
       "previous": "3.2%"
     },
     {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-06-17T06:50:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "NHPI m/m",
       "country": "CAD",
       "date": "2026-06-17T08:30:00-04:00",
@@ -1341,7 +1349,7 @@
       "country": "USD",
       "date": "2026-06-17T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.9%",
+      "forecast": "0.8%",
       "previous": "1.4%"
     },
     {
@@ -1470,7 +1478,7 @@
       "date": "2026-06-18T05:03:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "3.39|2.1"
     },
     {
       "title": "German Buba Monthly Report",
@@ -1517,7 +1525,7 @@
       "country": "CAD",
       "date": "2026-06-18T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.4%",
+      "forecast": "1.1%",
       "previous": "2.6%"
     },
     {
