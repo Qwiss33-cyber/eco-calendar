@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-15T02:08:31Z",
+    "updated_utc": "2026-06-15T07:33:50Z",
     "reason": "regular_update",
     "this_week": 103,
     "last_week": 103,
@@ -891,7 +891,7 @@
     {
       "title": "ECB President Lagarde Speaks",
       "country": "EUR",
-      "date": "2026-06-15T03:15:00-04:00",
+      "date": "2026-06-15T03:30:00-04:00",
       "impact": "Medium",
       "forecast": "",
       "previous": ""
