@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-16T07:06:50Z",
+    "updated_utc": "2026-06-16T12:18:57Z",
     "reason": "regular_update",
     "this_week": 104,
     "last_week": 103,
@@ -1083,7 +1083,7 @@
     {
       "title": "BOJ Press Conference",
       "country": "JPY",
-      "date": "2026-06-16T01:30:00-04:00",
+      "date": "2026-06-16T02:30:00-04:00",
       "impact": "High",
       "forecast": "",
       "previous": ""
@@ -1115,7 +1115,7 @@
     {
       "title": "10-y Bond Auction",
       "country": "GBP",
-      "date": "2026-06-16T05:33:00-04:00",
+      "date": "2026-06-16T05:02:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "4.98|3.6"
