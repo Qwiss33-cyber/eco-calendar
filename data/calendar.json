@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-22T02:11:19Z",
+    "updated_utc": "2026-06-22T07:38:39Z",
     "reason": "regular_update",
-    "this_week": 85,
+    "this_week": 86,
     "last_week": 85,
-    "total": 170
+    "total": 171
   },
   "events": [
     {
@@ -763,7 +763,7 @@
     {
       "title": "ECB President Lagarde Speaks",
       "country": "EUR",
-      "date": "2026-06-22T08:30:00-04:00",
+      "date": "2026-06-22T09:00:00-04:00",
       "impact": "Medium",
       "forecast": "",
       "previous": ""
@@ -783,6 +783,14 @@
       "impact": "Low",
       "forecast": "-18",
       "previous": "-19"
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-06-22T11:25:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Flash Manufacturing PMI",
