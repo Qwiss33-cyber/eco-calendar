@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-23T14:07:24Z",
+    "updated_utc": "2026-06-23T16:36:18Z",
     "reason": "regular_update",
-    "this_week": 87,
+    "this_week": 88,
     "last_week": 85,
-    "total": 172
+    "total": 173
   },
   "events": [
     {
@@ -977,6 +977,14 @@
       "previous": ""
     },
     {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-06-23T14:05:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "API Weekly Statistical Bulletin",
       "country": "USD",
       "date": "2026-06-23T16:30:00-04:00",
@@ -1125,7 +1133,7 @@
       "country": "USD",
       "date": "2026-06-24T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-5.1M",
+      "forecast": "-3.3M",
       "previous": "-8.3M"
     },
     {
