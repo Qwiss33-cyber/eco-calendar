@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-23T08:49:17Z",
+    "updated_utc": "2026-06-23T11:46:45Z",
     "reason": "regular_update",
     "this_week": 87,
     "last_week": 85,
@@ -1155,7 +1155,7 @@
     {
       "title": "Bank Stress Test Results",
       "country": "USD",
-      "date": "2026-06-24T16:30:00-04:00",
+      "date": "2026-06-24T16:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
