@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-24T19:02:34Z",
+    "updated_utc": "2026-06-24T20:51:26Z",
     "reason": "regular_update",
     "this_week": 89,
     "last_week": 85,
@@ -1203,7 +1203,7 @@
     {
       "title": "NAB Quarterly Business Confidence",
       "country": "AUD",
-      "date": "2026-06-24T21:30:00-04:00",
+      "date": "2026-06-24T21:35:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "-4"
