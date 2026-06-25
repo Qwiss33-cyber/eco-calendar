@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-25T20:21:07Z",
+    "updated_utc": "2026-06-25T21:55:08Z",
     "reason": "regular_update",
-    "this_week": 90,
+    "this_week": 89,
     "last_week": 85,
-    "total": 175
+    "total": 174
   },
   "events": [
     {
@@ -1358,7 +1358,7 @@
       "date": "2026-06-26T05:33:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "3.77|1.6"
     },
     {
       "title": "Goods Trade Balance",
@@ -1391,14 +1391,6 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.6%"
-    },
-    {
-      "title": "FOMC Member Williams Speaks",
-      "country": "USD",
-      "date": "2026-06-26T10:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "FOMC Member Kashkari Speaks",
