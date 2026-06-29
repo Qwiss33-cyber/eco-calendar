@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-29T19:18:41Z",
+    "updated_utc": "2026-06-29T20:57:55Z",
     "reason": "regular_update",
     "this_week": 109,
     "last_week": 108,
@@ -971,7 +971,7 @@
     {
       "title": "ECB President Lagarde Speaks",
       "country": "EUR",
-      "date": "2026-06-29T13:30:00-04:00",
+      "date": "2026-06-29T15:00:00-04:00",
       "impact": "Medium",
       "forecast": "",
       "previous": ""
@@ -981,7 +981,7 @@
       "country": "GBP",
       "date": "2026-06-29T19:01:00-04:00",
       "impact": "Low",
-      "forecast": "1.3%",
+      "forecast": "1.2%",
       "previous": "1.2%"
     },
     {
@@ -997,7 +997,7 @@
       "country": "JPY",
       "date": "2026-06-29T19:50:00-04:00",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.6%",
       "previous": "0.8%"
     },
     {
@@ -1029,7 +1029,7 @@
       "country": "CNY",
       "date": "2026-06-29T21:30:00-04:00",
       "impact": "Low",
-      "forecast": "50.2",
+      "forecast": "50.1",
       "previous": "50.0"
     },
     {
@@ -1045,7 +1045,7 @@
       "country": "JPY",
       "date": "2026-06-30T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "32.1%",
+      "forecast": "31.8%",
       "previous": "11.4%"
     },
     {
@@ -1053,7 +1053,7 @@
       "country": "EUR",
       "date": "2026-06-30T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.6%",
+      "forecast": "0.4%",
       "previous": "1.2%"
     },
     {
@@ -1069,7 +1069,7 @@
       "country": "GBP",
       "date": "2026-06-30T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-21.5B",
+      "forecast": "-22.2B",
       "previous": "-18.4B"
     },
     {
@@ -1093,7 +1093,7 @@
       "country": "EUR",
       "date": "2026-06-30T02:29:00-04:00",
       "impact": "Medium",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "-0.2%"
     },
     {
@@ -1117,7 +1117,7 @@
       "country": "CHF",
       "date": "2026-06-30T03:00:00-04:00",
       "impact": "Low",
-      "forecast": "99.4",
+      "forecast": "99.0",
       "previous": "98.0"
     },
     {
@@ -1125,7 +1125,7 @@
       "country": "EUR",
       "date": "2026-06-30T03:55:00-04:00",
       "impact": "Low",
-      "forecast": "8K",
+      "forecast": "7K",
       "previous": "-12K"
     },
     {
@@ -1133,7 +1133,7 @@
       "country": "EUR",
       "date": "2026-06-30T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.2%",
       "previous": "0.4%"
     },
     {
@@ -1157,7 +1157,7 @@
       "country": "USD",
       "date": "2026-06-30T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "0.2%",
       "previous": "0.1%"
     },
     {
@@ -1165,7 +1165,7 @@
       "country": "USD",
       "date": "2026-06-30T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "0.9%",
       "previous": "0.8%"
     },
     {
@@ -1173,7 +1173,7 @@
       "country": "USD",
       "date": "2026-06-30T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "60.0",
+      "forecast": "55.7",
       "previous": "62.7"
     },
     {
@@ -1181,7 +1181,7 @@
       "country": "USD",
       "date": "2026-06-30T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "94.2",
+      "forecast": "94.4",
       "previous": "93.1"
     },
     {
@@ -1229,7 +1229,7 @@
       "country": "AUD",
       "date": "2026-06-30T21:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.5%",
       "previous": "-3.4%"
     },
     {
@@ -1237,7 +1237,7 @@
       "country": "CNY",
       "date": "2026-06-30T21:45:00-04:00",
       "impact": "Low",
-      "forecast": "52.0",
+      "forecast": "51.9",
       "previous": "51.8"
     },
     {
@@ -1245,7 +1245,7 @@
       "country": "JPY",
       "date": "2026-07-01T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "34.2",
+      "forecast": "34.1",
       "previous": "33.6"
     },
     {
@@ -1253,7 +1253,7 @@
       "country": "GBP",
       "date": "2026-07-01T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.1%",
       "previous": "-0.6%"
     },
     {
@@ -1269,7 +1269,7 @@
       "country": "CHF",
       "date": "2026-07-01T02:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.8%",
+      "forecast": "1.8%",
       "previous": "1.6%"
     },
     {
@@ -1277,7 +1277,7 @@
       "country": "EUR",
       "date": "2026-07-01T03:15:00-04:00",
       "impact": "Low",
-      "forecast": "51.2",
+      "forecast": "51.0",
       "previous": "51.2"
     },
     {
@@ -1285,7 +1285,7 @@
       "country": "CHF",
       "date": "2026-07-01T03:30:00-04:00",
       "impact": "Low",
-      "forecast": "56.3",
+      "forecast": "56.4",
       "previous": "57.3"
     },
     {
@@ -1293,7 +1293,7 @@
       "country": "EUR",
       "date": "2026-07-01T03:45:00-04:00",
       "impact": "Low",
-      "forecast": "52.6",
+      "forecast": "52.4",
       "previous": "52.9"
     },
     {
@@ -1421,7 +1421,7 @@
       "country": "USD",
       "date": "2026-07-01T10:00:00-04:00",
       "impact": "High",
-      "forecast": "53.7",
+      "forecast": "53.8",
       "previous": "54.0"
     },
     {
@@ -1429,7 +1429,7 @@
       "country": "USD",
       "date": "2026-07-01T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "79.0",
+      "forecast": "77.7",
       "previous": "82.1"
     },
     {
@@ -1437,7 +1437,7 @@
       "country": "USD",
       "date": "2026-07-01T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.1%",
       "previous": "0.4%"
     },
     {
@@ -1445,7 +1445,7 @@
       "country": "USD",
       "date": "2026-07-01T10:15:00-04:00",
       "impact": "Low",
-      "forecast": "16.0M",
+      "forecast": "16.1M",
       "previous": "16.1M"
     },
     {
@@ -1453,7 +1453,7 @@
       "country": "USD",
       "date": "2026-07-01T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-4.8M",
       "previous": "-6.1M"
     },
     {
@@ -1477,7 +1477,7 @@
       "country": "AUD",
       "date": "2026-07-01T21:30:00-04:00",
       "impact": "Low",
-      "forecast": "2.18B",
+      "forecast": "2.19B",
       "previous": "1.79B"
     },
     {
