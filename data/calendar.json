@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-06-29T01:32:27Z",
+    "updated_utc": "2026-06-29T06:19:13Z",
     "reason": "regular_update",
-    "this_week": 108,
+    "this_week": 109,
     "last_week": 108,
-    "total": 216
+    "total": 217
   },
   "events": [
     {
@@ -1409,6 +1409,14 @@
       "previous": "55.7"
     },
     {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-07-01T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "ISM Manufacturing PMI",
       "country": "USD",
       "date": "2026-07-01T10:00:00-04:00",
@@ -1439,14 +1447,6 @@
       "impact": "Low",
       "forecast": "16.0M",
       "previous": "16.1M"
-    },
-    {
-      "title": "ECB President Lagarde Speaks",
-      "country": "EUR",
-      "date": "2026-07-01T10:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "Crude Oil Inventories",
@@ -1550,7 +1550,7 @@
       "date": "2026-07-02T05:03:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "3.38|1.9"
     },
     {
       "title": "French 10-y Bond Auction",
@@ -1567,6 +1567,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "4.86|3.5"
+    },
+    {
+      "title": "FOMC Member Daly Speaks",
+      "country": "USD",
+      "date": "2026-07-02T07:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Average Hourly Earnings m/m",
