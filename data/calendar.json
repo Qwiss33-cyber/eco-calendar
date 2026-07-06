@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-06T12:29:18Z",
+    "updated_utc": "2026-07-06T15:59:38Z",
     "reason": "regular_update",
-    "this_week": 74,
+    "this_week": 75,
     "last_week": 74,
-    "total": 148
+    "total": 149
   },
   "events": [
     {
@@ -725,7 +725,7 @@
       "country": "JPY",
       "date": "2026-07-06T19:30:00-04:00",
       "impact": "Low",
-      "forecast": "-2.2%",
+      "forecast": "-2.3%",
       "previous": "-0.5%"
     },
     {
@@ -749,7 +749,7 @@
       "country": "EUR",
       "date": "2026-07-07T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.1%",
       "previous": "0.4%"
     },
     {
@@ -757,7 +757,7 @@
       "country": "GBP",
       "date": "2026-07-07T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "-0.1%"
     },
     {
@@ -765,7 +765,7 @@
       "country": "EUR",
       "date": "2026-07-07T02:45:00-04:00",
       "impact": "Low",
-      "forecast": "-5.2B",
+      "forecast": "-5.9B",
       "previous": "-5.6B"
     },
     {
@@ -809,6 +809,14 @@
       "previous": ""
     },
     {
+      "title": "FOMC Member Bowman Speaks",
+      "country": "USD",
+      "date": "2026-07-07T07:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
       "date": "2026-07-07T08:14:00-04:00",
@@ -829,7 +837,7 @@
       "country": "CAD",
       "date": "2026-07-07T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "2.4B",
+      "forecast": "2.8B",
       "previous": "2.7B"
     },
     {
@@ -837,7 +845,7 @@
       "country": "USD",
       "date": "2026-07-07T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-78.5B",
+      "forecast": "-78.3B",
       "previous": "-55.9B"
     },
     {
