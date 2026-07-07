@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-07T18:10:02Z",
+    "updated_utc": "2026-07-07T20:10:35Z",
     "reason": "regular_update",
-    "this_week": 75,
+    "this_week": 76,
     "last_week": 74,
-    "total": 149
+    "total": 150
   },
   "events": [
     {
@@ -965,8 +965,16 @@
       "country": "USD",
       "date": "2026-07-08T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-1.0M",
+      "forecast": "-1.9M",
       "previous": "-3.8M"
+    },
+    {
+      "title": "SNB Chairman Schlegel Speaks",
+      "country": "CHF",
+      "date": "2026-07-08T12:40:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "10-y Bond Auction",
@@ -1093,7 +1101,7 @@
       "country": "USD",
       "date": "2026-07-09T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "60B",
       "previous": "87B"
     },
     {
