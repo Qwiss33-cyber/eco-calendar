@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-13T07:52:52Z",
+    "updated_utc": "2026-07-13T10:44:47Z",
     "reason": "regular_update",
     "this_week": 98,
     "last_week": 98,
@@ -801,22 +801,6 @@
       "previous": "47.5"
     },
     {
-      "title": "M2 Money Supply y/y",
-      "country": "CNY",
-      "date": "2026-07-13T04:03:00-04:00",
-      "impact": "Low",
-      "forecast": "8.5%",
-      "previous": "8.6%"
-    },
-    {
-      "title": "New Loans",
-      "country": "CNY",
-      "date": "2026-07-13T04:03:00-04:00",
-      "impact": "Low",
-      "forecast": "1950B",
-      "previous": "520B"
-    },
-    {
       "title": "FOMC Member Bowman Speaks",
       "country": "USD",
       "date": "2026-07-13T05:25:00-04:00",
@@ -935,6 +919,22 @@
       "impact": "Low",
       "forecast": "-0.5%",
       "previous": "-0.4%"
+    },
+    {
+      "title": "M2 Money Supply y/y",
+      "country": "CNY",
+      "date": "2026-07-14T04:03:00-04:00",
+      "impact": "Low",
+      "forecast": "8.5%",
+      "previous": "8.6%"
+    },
+    {
+      "title": "New Loans",
+      "country": "CNY",
+      "date": "2026-07-14T04:03:00-04:00",
+      "impact": "Low",
+      "forecast": "1950B",
+      "previous": "520B"
     },
     {
       "title": "BOE Gov Bailey Speaks",
