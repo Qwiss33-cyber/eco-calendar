@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-14T00:04:09Z",
+    "updated_utc": "2026-07-14T03:21:57Z",
     "reason": "regular_update",
     "this_week": 98,
     "last_week": 98,
@@ -875,7 +875,7 @@
     {
       "title": "Trade Balance",
       "country": "CNY",
-      "date": "2026-07-13T22:03:00-04:00",
+      "date": "2026-07-13T22:31:00-04:00",
       "impact": "Low",
       "forecast": "810B",
       "previous": "724B"
@@ -883,7 +883,7 @@
     {
       "title": "USD-Denominated Trade Balance",
       "country": "CNY",
-      "date": "2026-07-13T22:04:00-04:00",
+      "date": "2026-07-13T22:31:00-04:00",
       "impact": "Low",
       "forecast": "119.5B",
       "previous": "105.4B"
