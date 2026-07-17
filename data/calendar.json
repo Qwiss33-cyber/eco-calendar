@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-17T19:45:17Z",
+    "updated_utc": "2026-07-17T21:24:57Z",
     "reason": "regular_update",
-    "this_week": 99,
+    "this_week": 98,
     "last_week": 98,
-    "total": 197
+    "total": 196
   },
   "events": [
     {
@@ -1575,14 +1575,6 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.6%"
-    },
-    {
-      "title": "Treasury Currency Report",
-      "country": "USD",
-      "date": "2026-07-17T16:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     }
   ]
 }
