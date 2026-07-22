@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-22T03:34:46Z",
+    "updated_utc": "2026-07-22T06:11:38Z",
     "reason": "regular_update",
-    "this_week": 69,
+    "this_week": 70,
     "last_week": 69,
-    "total": 138
+    "total": 139
   },
   "events": [
     {
@@ -697,20 +697,20 @@
       "previous": "4.9%"
     },
     {
-      "title": "German ZEW Economic Sentiment",
-      "country": "EUR",
-      "date": "2026-07-21T05:00:00-04:00",
-      "impact": "Low",
-      "forecast": "15.1",
-      "previous": "10.5"
-    },
-    {
       "title": "ZEW Economic Sentiment",
       "country": "EUR",
       "date": "2026-07-21T05:00:00-04:00",
       "impact": "Low",
       "forecast": "11.2",
       "previous": "9.5"
+    },
+    {
+      "title": "German ZEW Economic Sentiment",
+      "country": "EUR",
+      "date": "2026-07-21T05:00:00-04:00",
+      "impact": "Low",
+      "forecast": "15.1",
+      "previous": "10.5"
     },
     {
       "title": "German Buba President Nagel Speaks",
@@ -763,7 +763,7 @@
     {
       "title": "Credit Card Spending y/y",
       "country": "NZD",
-      "date": "2026-07-21T23:00:00-04:00",
+      "date": "2026-07-21T23:03:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "5.1%"
@@ -831,6 +831,14 @@
       "impact": "Low",
       "forecast": "-2.0M",
       "previous": "-1.7M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-22T15:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Employment Change",
