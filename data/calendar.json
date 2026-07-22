@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-22T08:41:55Z",
+    "updated_utc": "2026-07-22T10:49:50Z",
     "reason": "regular_update",
     "this_week": 70,
     "last_week": 69,
@@ -809,14 +809,6 @@
       "previous": "3.1%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-07-22T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-8.6%"
-    },
-    {
       "title": "HPI y/y",
       "country": "GBP",
       "date": "2026-07-22T04:30:00-04:00",
@@ -855,6 +847,14 @@
       "impact": "High",
       "forecast": "4.4%",
       "previous": "4.4%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-07-23T02:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-8.6%"
     },
     {
       "title": "CBI Industrial Order Expectations",
