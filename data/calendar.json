@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-27T13:56:16Z",
+    "updated_utc": "2026-07-27T16:09:06Z",
     "reason": "regular_update",
-    "this_week": 90,
+    "this_week": 91,
     "last_week": 90,
-    "total": 180
+    "total": 181
   },
   "events": [
     {
@@ -791,6 +791,14 @@
       "impact": "Low",
       "forecast": "1.6%",
       "previous": "-4.5%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-07-27T14:50:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "BRC Shop Price Index y/y",
