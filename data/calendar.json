@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-27T19:03:25Z",
+    "updated_utc": "2026-07-27T20:38:16Z",
     "reason": "regular_update",
-    "this_week": 91,
+    "this_week": 92,
     "last_week": 90,
-    "total": 181
+    "total": 182
   },
   "events": [
     {
@@ -1191,6 +1191,14 @@
       "impact": "High",
       "forecast": "3.75%",
       "previous": "3.75%"
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-07-30T07:30:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Advance GDP q/q",
