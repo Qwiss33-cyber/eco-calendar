@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-07-31T01:08:50Z",
+    "updated_utc": "2026-07-31T04:34:25Z",
     "reason": "regular_update",
     "this_week": 92,
     "last_week": 90,
@@ -1321,9 +1321,17 @@
       "previous": "50.2"
     },
     {
+      "title": "BOJ Outlook Report",
+      "country": "JPY",
+      "date": "2026-07-30T23:11:00-04:00",
+      "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "BOJ Policy Rate",
       "country": "JPY",
-      "date": "2026-07-30T22:30:00-04:00",
+      "date": "2026-07-30T23:11:00-04:00",
       "impact": "High",
       "forecast": "<1.00%",
       "previous": "<1.00%"
@@ -1331,15 +1339,7 @@
     {
       "title": "Monetary Policy Statement",
       "country": "JPY",
-      "date": "2026-07-30T22:30:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
-      "title": "BOJ Outlook Report",
-      "country": "JPY",
-      "date": "2026-07-30T22:31:00-04:00",
+      "date": "2026-07-30T23:11:00-04:00",
       "impact": "High",
       "forecast": "",
       "previous": ""
