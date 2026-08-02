@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-02T14:11:41Z",
+    "updated_utc": "2026-08-02T15:17:02Z",
     "reason": "weekend_update",
-    "this_week": 94,
+    "this_week": 95,
     "last_week": 90,
-    "total": 184
+    "total": 185
   },
   "events": [
     {
@@ -727,6 +727,14 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.2%"
+    },
+    {
+      "title": "OPEC-JMMC Meetings",
+      "country": "All",
+      "date": "2026-08-02T05:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Bank Holiday",
