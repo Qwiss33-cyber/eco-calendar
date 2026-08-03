@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-03T15:58:31Z",
+    "updated_utc": "2026-08-03T17:48:34Z",
     "reason": "regular_update",
-    "this_week": 97,
+    "this_week": 98,
     "last_week": 95,
-    "total": 192
+    "total": 193
   },
   "events": [
     {
@@ -1108,6 +1108,14 @@
       "title": "Monetary Policy Meeting Minutes",
       "country": "JPY",
       "date": "2026-08-04T19:50:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Schmid Speaks",
+      "country": "USD",
+      "date": "2026-08-04T20:15:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
