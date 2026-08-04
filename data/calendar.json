@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-04T18:56:51Z",
+    "updated_utc": "2026-08-04T20:19:48Z",
     "reason": "regular_update",
     "this_week": 99,
     "last_week": 95,
@@ -1229,7 +1229,7 @@
       "country": "USD",
       "date": "2026-08-05T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.9M",
+      "forecast": "-1.5M",
       "previous": "-7.2M"
     },
     {
@@ -1381,7 +1381,7 @@
       "country": "USD",
       "date": "2026-08-06T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "30B",
       "previous": "28B"
     },
     {
@@ -1477,7 +1477,7 @@
       "country": "CAD",
       "date": "2026-08-07T08:30:00-04:00",
       "impact": "High",
-      "forecast": "14.8K",
+      "forecast": "17.8K",
       "previous": "18.2K"
     },
     {
@@ -1533,7 +1533,7 @@
       "country": "USD",
       "date": "2026-08-07T15:00:00-04:00",
       "impact": "Low",
-      "forecast": "11.2B",
+      "forecast": "11.4B",
       "previous": "-0.2B"
     },
     {
