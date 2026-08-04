@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-04T17:19:13Z",
+    "updated_utc": "2026-08-04T18:56:51Z",
     "reason": "regular_update",
-    "this_week": 98,
+    "this_week": 99,
     "last_week": 95,
-    "total": 193
+    "total": 194
   },
   "events": [
     {
@@ -1237,6 +1237,14 @@
       "country": "USD",
       "date": "2026-08-05T16:05:00-04:00",
       "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-08-05T16:30:00-04:00",
+      "impact": "Medium",
       "forecast": "",
       "previous": ""
     },
