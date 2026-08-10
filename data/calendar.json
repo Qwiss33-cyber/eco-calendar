@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-10T13:51:40Z",
+    "updated_utc": "2026-08-10T15:39:20Z",
     "reason": "regular_update",
     "this_week": 74,
     "last_week": 73,
@@ -635,7 +635,7 @@
     {
       "title": "Cleveland Fed Inflation Expectations",
       "country": "USD",
-      "date": "2026-08-10T09:48:00-04:00",
+      "date": "2026-08-10T09:45:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.7%"
