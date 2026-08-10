@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-10T19:11:17Z",
+    "updated_utc": "2026-08-10T20:40:38Z",
     "reason": "regular_update",
     "this_week": 74,
     "last_week": 73,
@@ -661,7 +661,7 @@
       "country": "GBP",
       "date": "2026-08-10T19:01:00-04:00",
       "impact": "Low",
-      "forecast": "1.5%",
+      "forecast": "1.6%",
       "previous": "1.7%"
     },
     {
@@ -717,7 +717,7 @@
       "country": "USD",
       "date": "2026-08-11T06:00:00-04:00",
       "impact": "Low",
-      "forecast": "97.8",
+      "forecast": "97.5",
       "previous": "97.4"
     },
     {
@@ -789,7 +789,7 @@
       "country": "CAD",
       "date": "2026-08-12T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.0%",
+      "forecast": "0.8%",
       "previous": "-1.7%"
     },
     {
@@ -845,7 +845,7 @@
       "country": "USD",
       "date": "2026-08-12T14:00:00-04:00",
       "impact": "Low",
-      "forecast": "-294.6B",
+      "forecast": "-361.2B",
       "previous": "-120.3B"
     },
     {
@@ -901,7 +901,7 @@
       "country": "GBP",
       "date": "2026-08-13T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.3%",
       "previous": "-0.8%"
     },
     {
@@ -909,7 +909,7 @@
       "country": "GBP",
       "date": "2026-08-13T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-20.3B",
+      "forecast": "-20.6B",
       "previous": "-18.7B"
     },
     {
@@ -941,7 +941,7 @@
       "country": "GBP",
       "date": "2026-08-13T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.3%",
       "previous": "0.7%"
     },
     {
@@ -957,7 +957,7 @@
       "country": "CHF",
       "date": "2026-08-13T02:30:00-04:00",
       "impact": "Low",
-      "forecast": "-0.1%",
+      "forecast": "-0.2%",
       "previous": "-0.3%"
     },
     {
