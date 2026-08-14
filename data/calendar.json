@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-13T23:38:31Z",
+    "updated_utc": "2026-08-14T00:40:58Z",
     "reason": "regular_update",
-    "this_week": 75,
+    "this_week": 74,
     "last_week": 73,
-    "total": 148
+    "total": 147
   },
   "events": [
     {
@@ -1063,14 +1063,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": "-2.4%"
-    },
-    {
-      "title": "RBA Gov Bullock Speaks",
-      "country": "AUD",
-      "date": "2026-08-13T19:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "German WPI m/m",
