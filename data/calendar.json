@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-17T18:50:52Z",
+    "updated_utc": "2026-08-17T19:59:08Z",
     "reason": "regular_update",
     "this_week": 96,
     "last_week": 96,
@@ -965,7 +965,7 @@
       "country": "GBP",
       "date": "2026-08-18T02:00:00-04:00",
       "impact": "High",
-      "forecast": "11.2K",
+      "forecast": "16.5K",
       "previous": "6.7K"
     },
     {
@@ -997,7 +997,7 @@
       "country": "EUR",
       "date": "2026-08-18T05:00:00-04:00",
       "impact": "Low",
-      "forecast": "25.4",
+      "forecast": "25.9",
       "previous": "23.4"
     },
     {
@@ -1045,7 +1045,7 @@
       "country": "USD",
       "date": "2026-08-18T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.35M",
+      "forecast": "1.34M",
       "previous": "1.43M"
     },
     {
@@ -1101,7 +1101,7 @@
       "country": "NZD",
       "date": "2026-08-18T18:45:00-04:00",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "1.3%",
       "previous": "1.4%"
     },
     {
@@ -1109,7 +1109,7 @@
       "country": "NZD",
       "date": "2026-08-18T18:45:00-04:00",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.8%",
       "previous": "0.8%"
     },
     {
@@ -1117,7 +1117,7 @@
       "country": "JPY",
       "date": "2026-08-18T19:50:00-04:00",
       "impact": "Low",
-      "forecast": "7.6%",
+      "forecast": "7.2%",
       "previous": "-12.4%"
     },
     {
@@ -1157,7 +1157,7 @@
       "country": "GBP",
       "date": "2026-08-19T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.5%",
+      "forecast": "0.0%",
       "previous": "-2.0%"
     },
     {
@@ -1165,7 +1165,7 @@
       "country": "GBP",
       "date": "2026-08-19T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.2%",
       "previous": "0.0%"
     },
     {
@@ -1189,7 +1189,7 @@
       "country": "EUR",
       "date": "2026-08-19T04:00:00-04:00",
       "impact": "Low",
-      "forecast": "22.1B",
+      "forecast": "26.8B",
       "previous": "25.1B"
     },
     {
@@ -1197,7 +1197,7 @@
       "country": "GBP",
       "date": "2026-08-19T04:30:00-04:00",
       "impact": "Low",
-      "forecast": "2.5%",
+      "forecast": "1.9%",
       "previous": "2.7%"
     },
     {
@@ -1277,7 +1277,7 @@
       "country": "AUD",
       "date": "2026-08-19T21:30:00-04:00",
       "impact": "High",
-      "forecast": "11.4K",
+      "forecast": "11.7K",
       "previous": "76.3K"
     },
     {
@@ -1297,14 +1297,6 @@
       "previous": "-0.3%"
     },
     {
-      "title": "CBI Industrial Order Expectations",
-      "country": "GBP",
-      "date": "2026-08-20T06:00:00-04:00",
-      "impact": "Low",
-      "forecast": "-40",
-      "previous": "-45"
-    },
-    {
       "title": "German Buba Monthly Report",
       "country": "EUR",
       "date": "2026-08-20T06:00:00-04:00",
@@ -1313,11 +1305,19 @@
       "previous": ""
     },
     {
+      "title": "CBI Industrial Order Expectations",
+      "country": "GBP",
+      "date": "2026-08-20T06:00:00-04:00",
+      "impact": "Low",
+      "forecast": "-40",
+      "previous": "-45"
+    },
+    {
       "title": "IPPI m/m",
       "country": "CAD",
       "date": "2026-08-20T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.4%",
       "previous": "-1.4%"
     },
     {
@@ -1325,7 +1325,7 @@
       "country": "CAD",
       "date": "2026-08-20T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "0.0%",
       "previous": "-0.1%"
     },
     {
@@ -1333,7 +1333,7 @@
       "country": "CAD",
       "date": "2026-08-20T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.8%",
       "previous": "-6.9%"
     },
     {
@@ -1341,7 +1341,7 @@
       "country": "USD",
       "date": "2026-08-20T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "24.3",
+      "forecast": "24.1",
       "previous": "41.4"
     },
     {
@@ -1373,7 +1373,7 @@
       "country": "NZD",
       "date": "2026-08-20T18:45:00-04:00",
       "impact": "Low",
-      "forecast": "320M",
+      "forecast": "-175M",
       "previous": "23M"
     },
     {
@@ -1397,7 +1397,7 @@
       "country": "GBP",
       "date": "2026-08-20T19:01:00-04:00",
       "impact": "Low",
-      "forecast": "-17",
+      "forecast": "-18",
       "previous": "-17"
     },
     {
@@ -1429,7 +1429,7 @@
       "country": "GBP",
       "date": "2026-08-21T02:00:00-04:00",
       "impact": "Medium",
-      "forecast": "-0.4%",
+      "forecast": "-0.5%",
       "previous": "1.0%"
     },
     {
@@ -1437,7 +1437,7 @@
       "country": "GBP",
       "date": "2026-08-21T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "-0.1B",
+      "forecast": "0.0B",
       "previous": "16.0B"
     },
     {
