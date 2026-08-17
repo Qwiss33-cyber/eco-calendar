@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-17T19:59:08Z",
+    "updated_utc": "2026-08-17T21:11:07Z",
     "reason": "regular_update",
     "this_week": 96,
     "last_week": 96,
@@ -1461,7 +1461,7 @@
       "country": "EUR",
       "date": "2026-08-21T03:30:00-04:00",
       "impact": "Medium",
-      "forecast": "52.0",
+      "forecast": "52.1",
       "previous": "52.2"
     },
     {
@@ -1469,7 +1469,7 @@
       "country": "EUR",
       "date": "2026-08-21T03:30:00-04:00",
       "impact": "Medium",
-      "forecast": "50.2",
+      "forecast": "50.1",
       "previous": "49.6"
     },
     {
@@ -1501,7 +1501,7 @@
       "country": "GBP",
       "date": "2026-08-21T04:30:00-04:00",
       "impact": "Medium",
-      "forecast": "51.9",
+      "forecast": "51.8",
       "previous": "51.8"
     },
     {
@@ -1509,7 +1509,7 @@
       "country": "CAD",
       "date": "2026-08-21T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.2%",
       "previous": "1.2%"
     },
     {
@@ -1525,7 +1525,7 @@
       "country": "USD",
       "date": "2026-08-21T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "54.0",
+      "forecast": "53.9",
       "previous": "53.8"
     },
     {
@@ -1533,7 +1533,7 @@
       "country": "USD",
       "date": "2026-08-21T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "53.9",
+      "forecast": "54.0",
       "previous": "53.6"
     },
     {
