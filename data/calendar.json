@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-17T11:29:32Z",
+    "updated_utc": "2026-08-17T13:03:39Z",
     "reason": "regular_update",
     "this_week": 96,
     "last_week": 96,
@@ -913,14 +913,6 @@
       "previous": "2.6%"
     },
     {
-      "title": "Core CPI m/m",
-      "country": "CAD",
-      "date": "2026-08-17T08:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.1%"
-    },
-    {
       "title": "Foreign Securities Purchases",
       "country": "CAD",
       "date": "2026-08-17T08:30:00-04:00",
@@ -935,6 +927,14 @@
       "impact": "Low",
       "forecast": "10.6",
       "previous": "15.6"
+    },
+    {
+      "title": "Core CPI m/m",
+      "country": "CAD",
+      "date": "2026-08-17T08:32:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "0.1%"
     },
     {
       "title": "NAHB Housing Market Index",
