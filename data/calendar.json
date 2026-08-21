@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-21T13:12:48Z",
+    "updated_utc": "2026-08-21T14:27:31Z",
     "reason": "regular_update",
-    "this_week": 99,
+    "this_week": 100,
     "last_week": 96,
-    "total": 195
+    "total": 196
   },
   "events": [
     {
@@ -1519,6 +1519,14 @@
       "impact": "Medium",
       "forecast": "51.8",
       "previous": "51.8"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-08-21T05:03:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.0%"
     },
     {
       "title": "Core Retail Sales m/m",
