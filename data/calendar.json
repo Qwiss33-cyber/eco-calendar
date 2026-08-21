@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-21T04:34:52Z",
+    "updated_utc": "2026-08-21T05:43:57Z",
     "reason": "regular_update",
-    "this_week": 100,
+    "this_week": 99,
     "last_week": 96,
-    "total": 196
+    "total": 195
   },
   "events": [
     {
@@ -1455,14 +1455,6 @@
       "impact": "Low",
       "forecast": "0.0B",
       "previous": "16.0B"
-    },
-    {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-08-21T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.0%"
     },
     {
       "title": "French Flash Manufacturing PMI",
