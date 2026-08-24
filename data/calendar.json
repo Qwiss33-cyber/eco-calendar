@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-24T14:20:31Z",
+    "updated_utc": "2026-08-24T15:49:13Z",
     "reason": "regular_update",
-    "this_week": 66,
+    "this_week": 69,
     "last_week": 66,
-    "total": 132
+    "total": 135
   },
   "events": [
     {
@@ -563,7 +563,7 @@
     {
       "title": "Treasury Sec Bessent Speaks",
       "country": "USD",
-      "date": "2026-08-24T14:00:00-04:00",
+      "date": "2026-08-24T13:00:00-04:00",
       "impact": "Medium",
       "forecast": "",
       "previous": ""
@@ -597,7 +597,7 @@
       "country": "EUR",
       "date": "2026-08-25T04:00:00-04:00",
       "impact": "Low",
-      "forecast": "87.3",
+      "forecast": "87.2",
       "previous": "86.6"
     },
     {
@@ -607,6 +607,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "9.5K"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-25T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Belgian NBB Business Climate",
@@ -629,7 +637,7 @@
       "country": "USD",
       "date": "2026-08-25T09:00:00-04:00",
       "impact": "Low",
-      "forecast": "1.9%",
+      "forecast": "1.8%",
       "previous": "1.6%"
     },
     {
@@ -653,8 +661,16 @@
       "country": "USD",
       "date": "2026-08-25T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "7",
+      "forecast": "6",
       "previous": "5"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-25T16:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "API Weekly Statistical Bulletin",
@@ -791,6 +807,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "4.4M"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-26T11:45:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Gov Board Member Martin Speaks",
