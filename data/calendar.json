@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-27T10:37:30Z",
+    "updated_utc": "2026-08-27T20:43:53Z",
     "reason": "regular_update",
-    "this_week": 69,
+    "this_week": 71,
     "last_week": 66,
-    "total": 135
+    "total": 137
   },
   "events": [
     {
@@ -1033,6 +1033,14 @@
       "previous": "0.3%"
     },
     {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-08-28T09:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Chicago PMI",
       "country": "USD",
       "date": "2026-08-28T09:45:00-04:00",
@@ -1077,6 +1085,14 @@
       "country": "All",
       "date": "2026-08-28T12:15:00-04:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "G20 Meetings",
+      "country": "All",
+      "date": "2026-08-29T11:15:00-04:00",
+      "impact": "Low",
       "forecast": "",
       "previous": ""
     },
