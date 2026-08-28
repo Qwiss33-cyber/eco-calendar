@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-27T20:43:53Z",
+    "updated_utc": "2026-08-28T04:28:53Z",
     "reason": "regular_update",
-    "this_week": 71,
+    "this_week": 72,
     "last_week": 66,
-    "total": 137
+    "total": 138
   },
   "events": [
     {
@@ -1079,6 +1079,14 @@
       "impact": "Medium",
       "forecast": "",
       "previous": "4.3%"
+    },
+    {
+      "title": "MPC Member Mann Speaks",
+      "country": "GBP",
+      "date": "2026-08-28T10:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Jackson Hole Symposium",
