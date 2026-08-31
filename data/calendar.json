@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-08-31T12:12:21Z",
+    "updated_utc": "2026-08-31T19:07:04Z",
     "reason": "regular_update",
     "this_week": 112,
     "last_week": 110,
@@ -1037,7 +1037,7 @@
       "country": "CNY",
       "date": "2026-08-31T21:45:00-04:00",
       "impact": "Low",
-      "forecast": "51.5",
+      "forecast": "51.1",
       "previous": "50.9"
     },
     {
@@ -1765,7 +1765,7 @@
       "country": "USD",
       "date": "2026-09-04T08:30:00-04:00",
       "impact": "High",
-      "forecast": "58K",
+      "forecast": "55K",
       "previous": "-23K"
     },
     {
