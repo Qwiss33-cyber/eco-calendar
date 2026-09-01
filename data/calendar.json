@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-01T16:30:19Z",
+    "updated_utc": "2026-09-01T19:28:59Z",
     "reason": "regular_update",
     "this_week": 113,
     "last_week": 110,
@@ -1209,6 +1209,14 @@
       "previous": "6.3%"
     },
     {
+      "title": "German Buba President Nagel Speaks",
+      "country": "EUR",
+      "date": "2026-09-01T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "FOMC Member Barr Speaks",
       "country": "USD",
       "date": "2026-09-01T09:05:00-04:00",
@@ -1321,14 +1329,6 @@
       "previous": "-13.8%"
     },
     {
-      "title": "German Buba President Nagel Speaks",
-      "country": "EUR",
-      "date": "2026-09-01T20:30:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
-    },
-    {
       "title": "GDP q/q",
       "country": "AUD",
       "date": "2026-09-01T21:30:00-04:00",
@@ -1389,7 +1389,7 @@
       "country": "USD",
       "date": "2026-09-02T08:15:00-04:00",
       "impact": "Medium",
-      "forecast": "48K",
+      "forecast": "47K",
       "previous": "44K"
     },
     {
@@ -1429,7 +1429,7 @@
       "country": "USD",
       "date": "2026-09-02T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.0M",
+      "forecast": "-0.4M",
       "previous": "0.1M"
     },
     {
@@ -1677,7 +1677,7 @@
       "country": "USD",
       "date": "2026-09-03T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "30B",
       "previous": "15B"
     },
     {
