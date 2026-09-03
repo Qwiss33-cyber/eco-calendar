@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-03T13:50:05Z",
+    "updated_utc": "2026-09-03T17:17:28Z",
     "reason": "regular_update",
-    "this_week": 113,
+    "this_week": 114,
     "last_week": 110,
-    "total": 223
+    "total": 224
   },
   "events": [
     {
@@ -1679,6 +1679,14 @@
       "impact": "Low",
       "forecast": "30B",
       "previous": "15B"
+    },
+    {
+      "title": "MPC Member Pill Speaks",
+      "country": "GBP",
+      "date": "2026-09-03T11:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Hammack Speaks",
