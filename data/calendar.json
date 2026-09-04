@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-04T17:45:04Z",
+    "updated_utc": "2026-09-04T19:53:23Z",
     "reason": "regular_update",
-    "this_week": 115,
+    "this_week": 114,
     "last_week": 110,
-    "total": 225
+    "total": 224
   },
   "events": [
     {
@@ -1799,14 +1799,6 @@
       "impact": "Medium",
       "forecast": "56.2",
       "previous": "55.1"
-    },
-    {
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-09-04T18:00:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": ""
     }
   ]
 }
