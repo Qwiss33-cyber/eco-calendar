@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-04T10:54:25Z",
+    "updated_utc": "2026-09-04T14:35:27Z",
     "reason": "regular_update",
-    "this_week": 114,
+    "this_week": 116,
     "last_week": 110,
-    "total": 224
+    "total": 226
   },
   "events": [
     {
@@ -1793,12 +1793,28 @@
       "previous": "4.1%"
     },
     {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-04T09:40:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Ivey PMI",
       "country": "CAD",
       "date": "2026-09-04T10:00:00-04:00",
       "impact": "Medium",
       "forecast": "56.2",
       "previous": "55.1"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-04T18:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     }
   ]
 }
