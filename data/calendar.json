@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-09T09:14:54Z",
+    "updated_utc": "2026-09-09T13:43:57Z",
     "reason": "regular_update",
-    "this_week": 80,
+    "this_week": 81,
     "last_week": 78,
-    "total": 158
+    "total": 159
   },
   "events": [
     {
@@ -915,7 +915,7 @@
     {
       "title": "German 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-09-09T05:42:00-04:00",
+      "date": "2026-09-09T05:33:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.26|1.1"
@@ -923,18 +923,18 @@
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-09-09T08:15:00-04:00",
+      "date": "2026-09-09T08:14:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "11.8K"
     },
     {
       "title": "ADP Weekly Employment Change",
       "country": "USD",
-      "date": "2026-09-09T08:16:00-04:00",
+      "date": "2026-09-09T08:15:00-04:00",
       "impact": "Low",
       "forecast": "",
-      "previous": "11.8K"
+      "previous": "10.0K"
     },
     {
       "title": "German Buba President Nagel Speaks",
@@ -983,6 +983,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "4.9%"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-09-09T21:15:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "German Final CPI m/m",
