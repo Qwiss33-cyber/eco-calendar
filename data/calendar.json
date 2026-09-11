@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-11T17:19:13Z",
+    "updated_utc": "2026-09-11T19:48:21Z",
     "reason": "regular_update",
     "this_week": 81,
     "last_week": 78,
@@ -1259,7 +1259,7 @@
     {
       "title": "Federal Budget Balance",
       "country": "USD",
-      "date": "2026-09-11T14:00:00-04:00",
+      "date": "2026-09-11T13:58:00-04:00",
       "impact": "Low",
       "forecast": "-221.1B",
       "previous": "-432.3B"
