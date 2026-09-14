@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-14T06:32:22Z",
+    "updated_utc": "2026-09-14T13:15:01Z",
     "reason": "regular_update",
     "this_week": 103,
     "last_week": 103,
@@ -883,7 +883,7 @@
     {
       "title": "M2 Money Supply y/y",
       "country": "CNY",
-      "date": "2026-09-14T04:03:00-04:00",
+      "date": "2026-09-14T05:01:00-04:00",
       "impact": "Low",
       "forecast": "7.6%",
       "previous": "7.7%"
@@ -891,7 +891,7 @@
     {
       "title": "New Loans",
       "country": "CNY",
-      "date": "2026-09-14T04:03:00-04:00",
+      "date": "2026-09-14T05:01:00-04:00",
       "impact": "Low",
       "forecast": "480B",
       "previous": "-340B"
