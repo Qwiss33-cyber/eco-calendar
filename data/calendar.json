@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-15T05:03:24Z",
+    "updated_utc": "2026-09-15T09:58:10Z",
     "reason": "regular_update",
     "this_week": 104,
     "last_week": 103,
@@ -1049,14 +1049,6 @@
       "previous": "4.9%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-09-15T02:02:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-6.2%"
-    },
-    {
       "title": "French Final CPI m/m",
       "country": "EUR",
       "date": "2026-09-15T02:45:00-04:00",
@@ -1367,6 +1359,14 @@
       "impact": "High",
       "forecast": "0.1%",
       "previous": "0.8%"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-09-17T02:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-6.2%"
     },
     {
       "title": "SECO Economic Forecasts",
