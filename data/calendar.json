@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-15T14:37:15Z",
+    "updated_utc": "2026-09-15T18:26:37Z",
     "reason": "regular_update",
-    "this_week": 104,
+    "this_week": 105,
     "last_week": 103,
-    "total": 207
+    "total": 208
   },
   "events": [
     {
@@ -1113,9 +1113,17 @@
       "previous": "20.6"
     },
     {
+      "title": "Treasury Sec Bessent Speaks",
+      "country": "USD",
+      "date": "2026-09-15T10:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "GDT Price Index",
       "country": "NZD",
-      "date": "2026-09-15T10:55:00-04:00",
+      "date": "2026-09-15T11:39:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "0.9%"
