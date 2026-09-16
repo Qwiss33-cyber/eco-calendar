@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-15T23:38:29Z",
+    "updated_utc": "2026-09-16T01:37:09Z",
     "reason": "regular_update",
     "this_week": 105,
     "last_week": 103,
@@ -1261,7 +1261,7 @@
       "country": "USD",
       "date": "2026-09-16T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "0.5%",
+      "forecast": "0.6%",
       "previous": "-0.3%"
     },
     {
@@ -1301,7 +1301,7 @@
       "country": "USD",
       "date": "2026-09-16T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.6M",
       "previous": "-0.4M"
     },
     {
@@ -1469,7 +1469,7 @@
       "country": "USD",
       "date": "2026-09-17T08:30:00-04:00",
       "impact": "Medium",
-      "forecast": "208K",
+      "forecast": "207K",
       "previous": "206K"
     },
     {
@@ -1485,7 +1485,7 @@
       "country": "USD",
       "date": "2026-09-17T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "1.31M",
+      "forecast": "1.32M",
       "previous": "1.24M"
     },
     {
@@ -1509,7 +1509,7 @@
       "country": "USD",
       "date": "2026-09-17T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "49B",
       "previous": "40B"
     },
     {
@@ -1601,7 +1601,7 @@
       "previous": "35.1B"
     },
     {
-      "title": "Eurogroup Meetings",
+      "title": "ECOFIN Meetings",
       "country": "EUR",
       "date": "2026-09-18T06:15:00-04:00",
       "impact": "Low",
@@ -1609,7 +1609,7 @@
       "previous": ""
     },
     {
-      "title": "ECOFIN Meetings",
+      "title": "Eurogroup Meetings",
       "country": "EUR",
       "date": "2026-09-18T06:15:00-04:00",
       "impact": "Low",
