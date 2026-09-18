@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-17T23:40:42Z",
+    "updated_utc": "2026-09-18T01:27:41Z",
     "reason": "regular_update",
-    "this_week": 105,
+    "this_week": 104,
     "last_week": 103,
-    "total": 208
+    "total": 207
   },
   "events": [
     {
@@ -1519,14 +1519,6 @@
       "impact": "Low",
       "forecast": "-1775M",
       "previous": "-1949M"
-    },
-    {
-      "title": "GfK Consumer Confidence",
-      "country": "GBP",
-      "date": "2026-09-17T19:01:00-04:00",
-      "impact": "Low",
-      "forecast": "-16",
-      "previous": "-14"
     },
     {
       "title": "RBA Gov Bullock Speaks",
