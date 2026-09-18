@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-18T18:11:52Z",
+    "updated_utc": "2026-09-18T20:52:24Z",
     "reason": "regular_update",
-    "this_week": 104,
+    "this_week": 105,
     "last_week": 103,
-    "total": 207
+    "total": 208
   },
   "events": [
     {
@@ -1591,6 +1591,14 @@
       "impact": "Low",
       "forecast": "30.7B",
       "previous": "35.1B"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-09-18T05:02:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-6.2%"
     },
     {
       "title": "ECOFIN Meetings",
