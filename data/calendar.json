@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-18T06:15:33Z",
+    "updated_utc": "2026-09-18T11:17:59Z",
     "reason": "regular_update",
-    "this_week": 105,
+    "this_week": 104,
     "last_week": 103,
-    "total": 208
+    "total": 207
   },
   "events": [
     {
@@ -1561,14 +1561,6 @@
       "previous": ""
     },
     {
-      "title": "BOJ Press Conference",
-      "country": "JPY",
-      "date": "2026-09-18T01:30:00-04:00",
-      "impact": "High",
-      "forecast": "",
-      "previous": ""
-    },
-    {
       "title": "German PPI m/m",
       "country": "EUR",
       "date": "2026-09-18T02:00:00-04:00",
@@ -1585,12 +1577,12 @@
       "previous": "-0.5%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-09-18T02:02:00-04:00",
-      "impact": "Low",
+      "title": "BOJ Press Conference",
+      "country": "JPY",
+      "date": "2026-09-18T02:30:00-04:00",
+      "impact": "High",
       "forecast": "",
-      "previous": "-6.2%"
+      "previous": ""
     },
     {
       "title": "Current Account",
