@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-21T18:38:09Z",
+    "updated_utc": "2026-09-21T22:10:21Z",
     "reason": "regular_update",
-    "this_week": 76,
+    "this_week": 77,
     "last_week": 75,
-    "total": 151
+    "total": 152
   },
   "events": [
     {
@@ -693,7 +693,7 @@
       "country": "GBP",
       "date": "2026-09-22T02:00:00-04:00",
       "impact": "Low",
-      "forecast": "15.4B",
+      "forecast": "15.2B",
       "previous": "1.8B"
     },
     {
@@ -709,7 +709,7 @@
       "country": "GBP",
       "date": "2026-09-22T06:00:00-04:00",
       "impact": "Low",
-      "forecast": "-34",
+      "forecast": "-33",
       "previous": "-25"
     },
     {
@@ -741,7 +741,7 @@
       "country": "USD",
       "date": "2026-09-22T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "5",
+      "forecast": "2",
       "previous": "4"
     },
     {
@@ -821,7 +821,7 @@
       "country": "EUR",
       "date": "2026-09-23T03:15:00-04:00",
       "impact": "Medium",
-      "forecast": "48.4",
+      "forecast": "48.3",
       "previous": "48.4"
     },
     {
@@ -829,7 +829,7 @@
       "country": "EUR",
       "date": "2026-09-23T03:30:00-04:00",
       "impact": "Medium",
-      "forecast": "54.0",
+      "forecast": "54.1",
       "previous": "54.1"
     },
     {
@@ -861,7 +861,7 @@
       "country": "GBP",
       "date": "2026-09-23T04:30:00-04:00",
       "impact": "Medium",
-      "forecast": "51.4",
+      "forecast": "51.5",
       "previous": "51.5"
     },
     {
@@ -885,7 +885,7 @@
       "country": "USD",
       "date": "2026-09-23T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "53.4",
+      "forecast": "53.6",
       "previous": "53.2"
     },
     {
@@ -893,7 +893,7 @@
       "country": "USD",
       "date": "2026-09-23T09:45:00-04:00",
       "impact": "Low",
-      "forecast": "56.0",
+      "forecast": "55.8",
       "previous": "56.8"
     },
     {
@@ -909,7 +909,7 @@
       "country": "USD",
       "date": "2026-09-23T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.6M",
       "previous": "-0.6M"
     },
     {
@@ -933,7 +933,7 @@
       "country": "AUD",
       "date": "2026-09-23T21:30:00-04:00",
       "impact": "High",
-      "forecast": "20.9K",
+      "forecast": "22.5K",
       "previous": "-15.8K"
     },
     {
@@ -981,7 +981,7 @@
       "country": "EUR",
       "date": "2026-09-24T04:00:00-04:00",
       "impact": "Low",
-      "forecast": "89.0",
+      "forecast": "89.1",
       "previous": "88.8"
     },
     {
@@ -1005,7 +1005,7 @@
       "country": "GBP",
       "date": "2026-09-24T06:00:00-04:00",
       "impact": "Low",
-      "forecast": "-50",
+      "forecast": "-42",
       "previous": "-48"
     },
     {
@@ -1037,8 +1037,16 @@
       "country": "USD",
       "date": "2026-09-24T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "-259B",
+      "forecast": "-258B",
       "previous": "-227B"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-09-24T08:30:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "FOMC Member Hammack Speaks",
@@ -1085,7 +1093,7 @@
       "country": "USD",
       "date": "2026-09-24T10:00:00-04:00",
       "impact": "Low",
-      "forecast": "619K",
+      "forecast": "615K",
       "previous": "607K"
     },
     {
@@ -1101,7 +1109,7 @@
       "country": "USD",
       "date": "2026-09-24T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "52B",
       "previous": "44B"
     },
     {
@@ -1125,7 +1133,7 @@
       "country": "JPY",
       "date": "2026-09-25T01:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "1.5%",
       "previous": "1.6%"
     },
     {
@@ -1173,7 +1181,7 @@
       "country": "USD",
       "date": "2026-09-25T08:30:00-04:00",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "0.6%",
       "previous": "0.4%"
     },
     {
@@ -1189,7 +1197,7 @@
       "country": "USD",
       "date": "2026-09-25T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "47.5",
+      "forecast": "47.4",
       "previous": "47.8"
     },
     {
