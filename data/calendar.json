@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-21T06:29:07Z",
+    "updated_utc": "2026-09-21T13:09:27Z",
     "reason": "regular_update",
-    "this_week": 75,
+    "this_week": 76,
     "last_week": 75,
-    "total": 150
+    "total": 151
   },
   "events": [
     {
@@ -1119,6 +1119,14 @@
       "impact": "Holiday",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "BOJ Core CPI y/y",
+      "country": "JPY",
+      "date": "2026-09-25T01:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "1.6%"
     },
     {
       "title": "German GfK Consumer Climate",
