@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-09-22T10:08:59Z",
+    "updated_utc": "2026-09-22T14:47:48Z",
     "reason": "regular_update",
-    "this_week": 77,
+    "this_week": 78,
     "last_week": 75,
-    "total": 152
+    "total": 153
   },
   "events": [
     {
@@ -727,6 +727,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": "16.3K"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-09-22T09:55:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "Consumer Confidence",
