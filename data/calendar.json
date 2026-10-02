@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-02T12:29:01Z",
+    "updated_utc": "2026-10-02T17:58:08Z",
     "reason": "regular_update",
-    "this_week": 142,
+    "this_week": 143,
     "last_week": 141,
-    "total": 283
+    "total": 284
   },
   "events": [
     {
@@ -2252,6 +2252,14 @@
       "title": "FOMC Member Logan Speaks",
       "country": "USD",
       "date": "2026-10-02T10:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-10-02T13:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
