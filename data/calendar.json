@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-07T02:27:53Z",
+    "updated_utc": "2026-10-07T09:02:02Z",
     "reason": "regular_update",
-    "this_week": 82,
+    "this_week": 83,
     "last_week": 79,
-    "total": 161
+    "total": 162
   },
   "events": [
     {
@@ -1031,6 +1031,14 @@
       "impact": "Low",
       "forecast": "1.9M",
       "previous": "0.9M"
+    },
+    {
+      "title": "President Trump Speaks",
+      "country": "USD",
+      "date": "2026-10-07T13:00:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "10-y Bond Auction",
