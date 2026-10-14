@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-14T05:28:46Z",
+    "updated_utc": "2026-10-14T10:26:10Z",
     "reason": "regular_update",
     "this_week": 111,
     "last_week": 109,
@@ -1161,9 +1161,17 @@
       "previous": ""
     },
     {
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-10-14T04:30:00-04:00",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "M2 Money Supply y/y",
       "country": "CNY",
-      "date": "2026-10-14T04:03:00-04:00",
+      "date": "2026-10-14T05:00:00-04:00",
       "impact": "Low",
       "forecast": "7.4%",
       "previous": "7.5%"
@@ -1171,18 +1179,10 @@
     {
       "title": "New Loans",
       "country": "CNY",
-      "date": "2026-10-14T04:03:00-04:00",
+      "date": "2026-10-14T05:01:00-04:00",
       "impact": "Low",
       "forecast": "1025B",
       "previous": "60B"
-    },
-    {
-      "title": "ECB President Lagarde Speaks",
-      "country": "EUR",
-      "date": "2026-10-14T04:30:00-04:00",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": ""
     },
     {
       "title": "German 30-y Bond Auction",
