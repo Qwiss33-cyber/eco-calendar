@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-14T10:26:10Z",
+    "updated_utc": "2026-10-14T15:17:18Z",
     "reason": "regular_update",
     "this_week": 111,
     "last_week": 109,
@@ -1187,7 +1187,7 @@
     {
       "title": "German 30-y Bond Auction",
       "country": "EUR",
-      "date": "2026-10-14T05:34:00-04:00",
+      "date": "2026-10-14T05:38:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.80|1.6"
@@ -1565,7 +1565,7 @@
       "country": "USD",
       "date": "2026-10-15T10:30:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "76B",
       "previous": "85B"
     },
     {
@@ -1573,7 +1573,7 @@
       "country": "USD",
       "date": "2026-10-15T12:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.2M",
       "previous": "-3.2M"
     },
     {
