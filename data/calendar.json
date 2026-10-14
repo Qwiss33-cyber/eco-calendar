@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-13T21:57:13Z",
+    "updated_utc": "2026-10-14T00:48:41Z",
     "reason": "regular_update",
-    "this_week": 110,
+    "this_week": 111,
     "last_week": 109,
-    "total": 219
+    "total": 220
   },
   "events": [
     {
@@ -1276,6 +1276,14 @@
       "title": "Beige Book",
       "country": "USD",
       "date": "2026-10-14T14:00:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-10-14T15:00:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
