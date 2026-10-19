@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-19T06:19:55Z",
+    "updated_utc": "2026-10-19T13:35:19Z",
     "reason": "regular_update",
     "this_week": 86,
     "last_week": 86,
@@ -801,14 +801,6 @@
       "previous": "0.4%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-10-19T05:10:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.3%"
-    },
-    {
       "title": "CPI m/m",
       "country": "CAD",
       "date": "2026-10-19T08:30:00-04:00",
@@ -935,6 +927,14 @@
       "impact": "Low",
       "forecast": "23.6",
       "previous": "25.8"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-10-20T05:10:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.3%"
     },
     {
       "title": "10-y Bond Auction",
