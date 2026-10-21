@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-21T06:03:29Z",
-    "reason": "actual_fetch",
+    "updated_utc": "2026-10-21T11:37:50Z",
+    "reason": "regular_update",
     "this_week": 86,
     "last_week": 86,
     "total": 172
@@ -1081,14 +1081,6 @@
       "previous": "1.4%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-10-21T05:10:00-04:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.3%"
-    },
-    {
       "title": "German Buba Monthly Report",
       "country": "EUR",
       "date": "2026-10-21T06:00:00-04:00",
@@ -1127,6 +1119,14 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-10-22T05:10:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.3%"
     },
     {
       "title": "CBI Industrial Order Expectations",
