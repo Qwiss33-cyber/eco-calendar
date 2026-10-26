@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-26T12:46:17Z",
+    "updated_utc": "2026-10-26T18:51:57Z",
     "reason": "regular_update",
-    "this_week": 96,
+    "this_week": 97,
     "last_week": 96,
-    "total": 192
+    "total": 193
   },
   "events": [
     {
@@ -837,7 +837,7 @@
       "country": "EUR",
       "date": "2026-10-27T04:00:00-04:00",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "9.8%",
       "previous": "9.9%"
     },
     {
@@ -901,7 +901,7 @@
       "country": "USD",
       "date": "2026-10-27T10:00:00-04:00",
       "impact": "Medium",
-      "forecast": "80.5",
+      "forecast": "80.7",
       "previous": "81.9"
     },
     {
@@ -1225,6 +1225,14 @@
       "previous": "0.9%"
     },
     {
+      "title": "Gov Council Member Gravelle Speaks",
+      "country": "CAD",
+      "date": "2026-10-29T08:50:00-04:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Main Refinancing Rate",
       "country": "EUR",
       "date": "2026-10-29T09:15:00-04:00",
@@ -1259,7 +1267,7 @@
     {
       "title": "Gov Council Member Vincent Speaks",
       "country": "CAD",
-      "date": "2026-10-29T11:59:00-04:00",
+      "date": "2026-10-29T11:30:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
