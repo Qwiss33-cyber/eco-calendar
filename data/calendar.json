@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-26T06:03:29Z",
+    "updated_utc": "2026-10-26T12:46:17Z",
     "reason": "regular_update",
     "this_week": 96,
     "last_week": 96,
@@ -1259,7 +1259,7 @@
     {
       "title": "Gov Council Member Vincent Speaks",
       "country": "CAD",
-      "date": "2026-10-29T10:50:00-04:00",
+      "date": "2026-10-29T11:59:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
