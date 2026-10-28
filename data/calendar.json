@@ -1,8 +1,8 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-10-28T06:57:49Z",
-    "reason": "regular_update",
+    "updated_utc": "2026-10-28T13:47:24Z",
+    "reason": "actual_fetch",
     "this_week": 97,
     "last_week": 96,
     "total": 193
@@ -1003,7 +1003,7 @@
     {
       "title": "German 10-y Bond Auction",
       "country": "EUR",
-      "date": "2026-10-28T05:42:00-04:00",
+      "date": "2026-10-28T06:32:00-04:00",
       "impact": "Low",
       "forecast": "",
       "previous": "3.58|1.2"
