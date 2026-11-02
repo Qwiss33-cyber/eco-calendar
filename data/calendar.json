@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-02T09:59:19Z",
+    "updated_utc": "2026-11-02T19:59:16Z",
     "reason": "regular_update",
     "this_week": 115,
     "last_week": 116,
@@ -1115,7 +1115,7 @@
     {
       "title": "Loan Officer Survey",
       "country": "USD",
-      "date": "2026-11-02T14:03:00-05:00",
+      "date": "2026-11-02T14:00:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
