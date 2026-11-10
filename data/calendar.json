@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-10T02:22:25Z",
+    "updated_utc": "2026-11-10T10:03:13Z",
     "reason": "regular_update",
     "this_week": 105,
     "last_week": 101,
@@ -985,20 +985,20 @@
       "previous": "-13"
     },
     {
-      "title": "Trade Balance",
-      "country": "CNY",
-      "date": "2026-11-09T22:03:00-05:00",
-      "impact": "Low",
-      "forecast": "855B",
-      "previous": "906B"
-    },
-    {
       "title": "USD-Denominated Trade Balance",
       "country": "CNY",
-      "date": "2026-11-09T22:04:00-05:00",
+      "date": "2026-11-09T21:32:00-05:00",
       "impact": "Low",
       "forecast": "126.5B",
       "previous": "133.5B"
+    },
+    {
+      "title": "Trade Balance",
+      "country": "CNY",
+      "date": "2026-11-09T21:33:00-05:00",
+      "impact": "Low",
+      "forecast": "855B",
+      "previous": "906B"
     },
     {
       "title": "30-y Bond Auction",
