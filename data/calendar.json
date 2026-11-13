@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-13T15:27:26Z",
+    "updated_utc": "2026-11-13T21:28:34Z",
     "reason": "regular_update",
-    "this_week": 106,
+    "this_week": 105,
     "last_week": 101,
-    "total": 207
+    "total": 206
   },
   "events": [
     {
@@ -1607,14 +1607,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": ""
-    },
-    {
-      "title": "Mortgage Delinquencies",
-      "country": "USD",
-      "date": "2026-11-13T10:15:00-05:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%"
     },
     {
       "title": "Natural Gas Storage",
