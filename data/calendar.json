@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-13T21:28:34Z",
+    "updated_utc": "2026-11-14T01:33:36Z",
     "reason": "regular_update",
-    "this_week": 105,
+    "this_week": 106,
     "last_week": 101,
-    "total": 206
+    "total": 207
   },
   "events": [
     {
@@ -1636,6 +1636,14 @@
       "title": "FOMC Member Daly Speaks",
       "country": "USD",
       "date": "2026-11-13T12:00:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Financial Stability Report",
+      "country": "USD",
+      "date": "2026-11-13T16:00:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": ""
