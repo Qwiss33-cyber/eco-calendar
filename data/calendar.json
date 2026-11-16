@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-16T01:01:38Z",
+    "updated_utc": "2026-11-16T07:48:46Z",
     "reason": "regular_update",
-    "this_week": 119,
+    "this_week": 120,
     "last_week": 119,
-    "total": 238
+    "total": 239
   },
   "events": [
     {
@@ -1133,6 +1133,14 @@
       "country": "USD",
       "date": "2026-11-16T12:00:00-05:00",
       "impact": "High",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-11-16T14:15:00-05:00",
+      "impact": "Low",
       "forecast": "",
       "previous": ""
     },
