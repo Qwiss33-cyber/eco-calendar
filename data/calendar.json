@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-18T16:22:53Z",
+    "updated_utc": "2026-11-18T22:58:22Z",
     "reason": "regular_update",
     "this_week": 125,
     "last_week": 119,
@@ -1673,14 +1673,6 @@
       "previous": "4.7%"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "country": "CNY",
-      "date": "2026-11-19T02:02:00-05:00",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%"
-    },
-    {
       "title": "Current Account",
       "country": "EUR",
       "date": "2026-11-19T04:00:00-05:00",
@@ -1887,6 +1879,14 @@
       "impact": "Low",
       "forecast": "18.0B",
       "previous": "24.5B"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "country": "CNY",
+      "date": "2026-11-20T02:02:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.3%"
     },
     {
       "title": "ECB President Lagarde Speaks",
