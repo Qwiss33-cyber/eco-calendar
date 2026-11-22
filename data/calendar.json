@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-22T11:59:06Z",
+    "updated_utc": "2026-11-22T19:05:34Z",
     "reason": "weekend_update",
     "this_week": 75,
     "last_week": 119,
@@ -1078,7 +1078,7 @@
       "date": "2026-11-23T08:30:00-05:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "8.7%"
     },
     {
       "title": "Flash Manufacturing PMI",
