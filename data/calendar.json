@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-24T14:58:31Z",
+    "updated_utc": "2026-11-24T23:44:59Z",
     "reason": "regular_update",
-    "this_week": 74,
+    "this_week": 75,
     "last_week": 75,
-    "total": 149
+    "total": 150
   },
   "events": [
     {
@@ -929,6 +929,14 @@
       "previous": "3.37|1.1"
     },
     {
+      "title": "FOMC Member Bowman Speaks",
+      "country": "USD",
+      "date": "2026-11-25T07:25:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
+    },
+    {
       "title": "Core PCE Price Index m/m",
       "country": "USD",
       "date": "2026-11-25T08:30:00-05:00",
@@ -1166,7 +1174,7 @@
       "date": "2026-11-27T05:33:00-05:00",
       "impact": "Low",
       "forecast": "",
-      "previous": ""
+      "previous": "4.49|1.6"
     },
     {
       "title": "German Buba President Nagel Speaks",
