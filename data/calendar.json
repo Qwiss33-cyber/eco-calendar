@@ -1,7 +1,7 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-24T04:20:06Z",
+    "updated_utc": "2026-11-24T14:58:31Z",
     "reason": "regular_update",
     "this_week": 74,
     "last_week": 75,
@@ -795,7 +795,7 @@
     {
       "title": "CB Leading Index m/m",
       "country": "CNY",
-      "date": "2026-11-24T09:00:00-05:00",
+      "date": "2026-11-24T08:51:00-05:00",
       "impact": "Low",
       "forecast": "",
       "previous": "-0.1%"
