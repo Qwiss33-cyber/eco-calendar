@@ -1,11 +1,11 @@
 {
   "meta": {
     "source": "ForexFactory",
-    "updated_utc": "2026-11-26T00:07:24Z",
+    "updated_utc": "2026-11-26T08:04:34Z",
     "reason": "regular_update",
-    "this_week": 76,
+    "this_week": 77,
     "last_week": 75,
-    "total": 151
+    "total": 152
   },
   "events": [
     {
@@ -1079,6 +1079,14 @@
       "impact": "Low",
       "forecast": "3.2%",
       "previous": "3.1%"
+    },
+    {
+      "title": "Euro Summit",
+      "country": "EUR",
+      "date": "2026-11-26T04:15:00-05:00",
+      "impact": "Low",
+      "forecast": "",
+      "previous": ""
     },
     {
       "title": "BOE Financial Stability Report",
